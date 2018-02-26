@@ -1,0 +1,36 @@
+---
+layout: post
+title: Spotlight
+date: '2016-01-09T17:09:54-05:00'
+tags:
+- Movie Marathon
+- Spotlight
+- Tom McCarthy
+- Mark Ruffalo
+- Michael Keaton
+- Rachel McAdams
+- Liev Schreiber
+- John Slattery
+- Brian d'Arcy James
+- Stanley Tucci
+- Elena Wohl
+- Gene Amoroso
+- Doug Murray
+- Billy Crudup
+tumblr_url: http://reelmatt.com/post/136971262973/spotlight
+---
+Year 4, Film #12 (Total #547)
+
+THE PLOT: The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.
+
+THE REVIEW: Spotlight is a film where you, most likely, know the outcome of the story going into it: the Boston Globe uncovers systemic child abuse by Boston clergy, and perhaps most damning, the efforts of officials across the board to cover it up. The investigation took place in 2001 and the fallout since then, and discoveries of child abuse by priests around the world, is massive. You feel appalled and shocked when hearing about it, but also a bit relieved with Spotlight because you see how this problem was revealed to everyone and made it impossible for the Church to ignore any longer.
+
+An obvious comparison could be made to the movie Doubt which also covers the topic of child abuse by a Catholic priest. Both films are dramas and both are powerful in their own ways. However, Spotlight shines for vastly different reasons than Doubt does and because of (or perhaps in spite of) these reasons, Spotlight has a greater impact in comparison. Doubt is about an individual case and sort of like a reenactment of fictional events. Spotlight is more based upon a true story and is grounded in a tangible result.
+
+You hear form the victims, you hear the questions that the Spotlight reporters asked, and you see how some make it their mission to ensure the story remains hidden from the public and covered up in every possible way. This story of the investigation that went into finding the truth, by definition, has a much larger scope than a singular story like Doubt. And it’s the scope of the problem that makes this story so impactful and unnerving. You get the multiple angles from an investigation like this, corroborating multiple sources, and watching as the evidence piles up into something you can no longer ignore.
+
+At the heart of this film is a masterfully crafted mystery, so to speak. It’s not a mystery in the sense that the outcome is completely unknown, but in finding the little tidbits along the way that build into something you could never expect from the outset. A story that started out with only 13 accused priests escalated into 87, of which a total of 70 had been confirmed as molesting children. Watching the film unfold as editor Walter Robinson (Michael Keaton) and reporters Mike Rezendes (Mark Ruffalo), Sacha Pfeiffer (Rachel McAdams), and Matt Carroll (Brian d’Arcy James) interview people on both sides of the story — victims, lawyers, priests, Cardinal Law (Len Cariou), and more — is quite affecting to say the least.
+
+THE TAKEAWAY: Spotlight is a clear Oscar contender and deserving of several nominations. It is also one of the best films I’ve ever seen that deals with newspaper reporters and an investigation, on par with the final season of The Wire which also covered the impact the press can have on a story with meaningful consequences. And despite knowing the end outcome, or perhaps some of the intricate details if you read the articles when they were published in 2002, Spotlight tells it in such a way that you’ll not want to stop watching, no matter how unsettling the findings are.
+
+THE RATING: 5 out of 5

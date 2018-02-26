@@ -1,0 +1,39 @@
+---
+layout: post
+title: Bridge of Spies
+date: '2016-02-12T12:40:15-05:00'
+tags:
+- Movie Marathon
+- Bridge of Spies
+- Steven Spielberg
+- Tom Hanks
+- Mark Rylance
+- Scott Shepherd
+- Amy Ryan
+- Sebastian Koch
+- Alan Alda
+- Austin Stowell
+- Billy Magnussen
+- Jesse Plemons
+- Domenick Lombardozzi
+- Mikhail Gorevoy
+- Joel and Ethan Coen
+tumblr_url: http://reelmatt.com/post/139179643953/bridge-of-spies
+---
+Year 4, Film #22 (Total #557)
+
+THE PLOT: During the Cold War, an American lawyer is recruited to defend an arrested Soviet spy in court, and then help the CIA facilitate an exchange of the spy for the Soviet captured American U2 spy plane pilot, Francis Gary Powers.
+
+THE REVIEW: I’m not sure at which point exactly in this film that my attention turned from curiosity to downright boredom, but there’s certainly a general lack of conflict or any type of thrill — both action-wise and drama-wise. To be clear, Bridge of Spies isn’t meant to be another Spielberg action film like Saving Private Ryan and it doesn’t present itself that way. But it does present itself as an interesting examination on a handful of characters during the Cold War and the morals which they believe in.
+
+For James Donovan (Tom Hanks), his morals are about what it means to be American. That one should follow the rules and for an American, their rulebook is the Constitution, which among other things guarantees everyone to the right of due process and justice in the court of law. We see Donovan fight for this first in his defense of Rudolf Abel (Mark Rylance) against espionage charges, and then later, in negotiations to exchange prisoners (including Abel) with Russia. For those who like court room drama or period war films, Bridge of Spies sounds like it would be right up your alley.
+
+Unfortunately, the pacing, structure, and overall execution of the film creates an absolute snorefest that has no sense of urgency, no sense of conflict, and nothing to even remotely approach a sense of danger. When the credits rolled at the end, I asked myself, “What just happened.” Literally, plot-wise, what story events actually took place. A trial in the U.S., an incredibly brief American spy program (more on this later), and Donovan negotiating the prisoner exchange. That’s it. And of these three parts of the story, the most interesting was the first trial in the U.S. You aren’t quite sure what’s going on in the opening as you have to piece together what Abel is doing, and that mystery slowly morphs into intrigue and genuine suspense for the trial. It seems quite clear that Donovan won’t, despite his best intentions, be able to give Abel a fair and just trial, but the circumstances and consequences of that are certainly interesting and well worth watching.
+
+However, the other two parts take up the majority of the film. The American spying part is the most half-assed, lazily put together story I can think of. Not only is it spread out over more than an hour, getting nothing more than a one or two minute scene each time, but the bits you do get aren’t that interesting. There’s a plane that can fly at 70,000 feet in the air with massive and powerful cameras and self-destruct, how can that not be exciting you ask? I don’t know; it just isn’t. Everything about Abel is fascinating, and you care a lot about his character. His American counterpart, Francis Gary Powers (Austin Stowell), on the other hand is poorly developed and from what you do see of him, doesn’t look worth saving. (But yes, he is a U.S. citizen, he should be saved no matter what, but that’s not the  point of contention here).
+
+As for the prisoner exchange portion of the film, bits here and there are gripping and raise several moments where you aren’t sure what will happen. For the most part though, it’s about as exciting at the trade negotiations in the Star Wars prequels, which is to say, not exciting at all, not even one iota. There is no double-cross, no real sense that the negotiations will go south and Donovan will have to give something up in return for what he wants. His style is basically to say, “I want these two people. You’re going to give them to me.” For the most part, that’s what happens. The only minor fluke that happens is when the GDR (East Germany) guy Wolfgang Vogel (Sebastian Koch) looks like he’ll renege on his promise. Turns out, he doesn’t and everything ends up just peachy.
+
+THE TAKEAWAY: Overall, Bridge of Spies is mainly just disappointing. There’s no reason this couldn’t be a great film with a suspenseful story and characters you actually care about. Instead it is a drawn-out, yawn-filled, and generally uninteresting film for such a potentially interesting topic. The only truly good part about the film, and the only deserved nomination, is for Mark Rylance’s performance as Rudolf Abel, though he is up against some tough competition in the Supporting Actor category. Abel’s character is asked repeatedly by Donovan, “How are you not worried?” to which he replies, “Would it help?” I feel that’s a perfect expression for my thoughts about the film… “Would it help if I cared?“
+
+THE RATING: 2 out of 5

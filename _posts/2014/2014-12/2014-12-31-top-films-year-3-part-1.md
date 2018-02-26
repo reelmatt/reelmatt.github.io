@@ -1,0 +1,42 @@
+---
+layout: post
+title: 'Top Films: Year 3 — Part 1'
+date: '2014-12-31T16:16:00-05:00'
+tags:
+- Movie Marathon
+- Top Films
+- Boyhood
+- Dawn of the Planet of the Apes
+- Guardians of the Galaxy
+- The Equalizer
+- The Judge
+- St. Vincent
+- Horrible Bosses 2
+- Foxcatcher
+- The Imitation Game
+- Snowpiercer
+- Birdman
+- Interstellar
+- All is Lost
+tumblr_url: http://reelmatt.com/post/106739874778/top-films-year-3-part-1
+---
+The calendar year 2014 may be coming to an end, but this marathon is only approaching its half birthday, well, three-and-a-half to be precise. These past six months have brought an interesting batch of films (and the first TV show) through the marathon, some which were remarkable and others I barely remember.Ever since I started, and accomplished, my goal of watching 365 films in one year I’ve taken things a bit slower. I’ve focused more on seeing films in theaters and choosing movies that I think will appeal to me rather than watching something just for the heck of it. This year, another 47 are added to the tally bringing the overall total just three shy of 500. In addition, I watched and reviewed the entire series of The Sopranos (something that’s been on my list for quite a while), preparing to do the same for The Wire, covered the release of the teaser trailer for the new Star Wars film coming out next year, and finally started writing about my experience on this year’s 48 Hour Film Project in Boston (I’m aware it’s been over six months now, but better late than never, right? Hopefully I can finish it up in January).
+While New Year’s Eve is always a great time for retrospectives and reflecting on all that has passed, it’s also a great time to look towards the future. With every end comes a new beginning and 2015 is looking to be quite the year ahead. I’m flying out to Los Angeles to finish my last semester at college in less than a week and come May is my graduation and when I finally enter the “real world”. After that, I’ll be faced with the decision of whether to stay here in New England or move to the West Coast. Of course there’s also the slew of new films coming out in what’s shaping to be one of the biggest years in cinema. There’s the Star Wars film, two new Pixar movies, a new James Bond film, Mission: Impossible 5, the conclusion to The Hunger Games, a pair of new Marvel films including Avengers: Age of Ultron, and so much more.
+If there is one thing I’ve learned though, it’s that you should never be scared of the future and the unknown. It might make you feel uneasy and nervous, but things have a way of working themselves out. Here’s to 2015 and all the adventures, films, and everything else it has to offer. But first, the best films I’ve seen over the last six months.
+
+Boyhood: Boyhood has the structure of, and plays like, a narrative feature but it has the feeling and spontaneity of a documentary. It was amazing to watch the entire cast grow up right before my eyes and is something I’ve only seen in my own life. Richard Linlakter and everyone involved in this film took on an ambitious project, but that ambition sure paid off. As the marketing materials for the film say, it “Isn’t quite like anything else in the history of cinema.” Don’t miss out on history.
+Dawn of the Planet of the Apes: This has all the best parts of a summer blockbuster with the action and suspense, while also having the makings of an Oscar winner for a drama. It’s not as deep or complex as other Best Picture winners are, but compared to Rise and especially compared to any other blockbuster — summer or otherwise — it has the potential and even takes advantage of that in certain places. Acting as well deserves widespread recognition for Dawn. Both humans and apes deliver knockout performances and Andy Serkis is entitled to a nomination if not a win for Best Actor. He was snubbed for his performance in Rise, he needs to get one for Dawn. Performance capture be damned, Serkis delivers an Oscar-worthy performance, plain and simple.
+Guardians of the Galaxy: Guardians of the Galaxy is easily the funniest Marvel film to-date while also taking the story to new, yet familiar, places. It works as a standalone delivering laughs constantly (this is really like a comedy) and a story that keeps you at the edge of your seat, while also tying into the Marvel Cinematic Universe as a whole, priming us for even greater things to come.
+The Equalizer: Despite some familiarity and feeling like this is just another action film, The Equalizer defies all expectations and blows you away with it’s unique, and mysterious, take on the very popular, and often very unoriginal, action genre. You may be left with questions at the end, but the film paints a very clear picture, and one that’s a pleasure to watch.
+The Judge: Despite the handful of flaws The Judge has (there’s some more minor ones in addition to the major one I noted above), I couldn’t help but just focus on the many positives this film has. Robert Downey, Jr. and Robert Duvall help make this film much more than a traditional father-and-son or underdog story about overcoming great obstacles. They help make this an incredibly emotional and powerful film that leaves you overwhelmed.
+St. Vincent: This is my favorite comedy so far this year, but what happens at the end caught me a bit off-guard. Oliver gives a great speech at the end that was so heartfelt and powerful that it almost had me leave the theater in tears. It’s a message that I think we all should listen to closely: we all have people in our lives who have made an impact — tell them how much they mean to you and pass on the torch to someone else. Be a Saint and be there for someone; you may have flaws and imperfections, but so does everybody else. You can still do amazing things for other people.
+Horrible Bosses 2: If you’re looking for a good time filled end-to-end with laughs, look no further than Horrible Bosses 2. It’s a marked improvement over the original though it does stick close to the kind of humor it delivers. The simple measure you can use to decide whether or not you’ll find it funny: watch the two parts I mentioned in the trailer. That, or knowing whether you like any previous work of Bateman, Sudekis, or Day (and Chris Pine too, he’s the hidden star of this film). Horrible Bosses 2 comes in a close second in terms of best comedy.
+Foxcatcher: Bennett Miller creates a film that’s not only full of drama and suspense, but leaves you uneasy the whole time, not sure what to expect. Part of this is due to the sound (or lack thereof) and part is due to the acting, which is phenomenal across the board. It’s an unbelievable film that was well worth the wait and delay from it’s originally scheduled release last December. And do yourself a big favor too: if you still don’t know the story Foxcatcher is based on, keep it that way. Don’t spoil it for yourself before watching the film.
+The Imitation Game: This film is entertaining and enjoyable while also packing a big emotional punch to it. Benedict Cumberbatch delivers a very nuanced and dichotomous performance as cryptographer Alan Turing that is worthy of a nomination for Best Actor. If you’re like me and love films based on true stories (especially war stories) than The Imitation Game is right for you. Not your cup of tea? Well, The Imitation Game will still delight thanks to it’s deep and touching story about what it means to fight for your life and your life’s work.
+Snowpiercer: There is much more than first meets the eye with Snowpiercer. Right off the bat there’s some easy things to like that make this a great film like the whole premise and location (world’s end, single train, fight for power). But Snowpiercer doesn’t just stop there, no. This film takes it to the next level by having a highly intricate backstory for everything (these people have been on the train for 17 years now) and a gradually evolving focus. It may start out looking like another run-of-the-mill action movie, but it ends in a place that is unexpected yet makes perfect sense all while being utterly satisfying. I’m kind of upset I didn’t see it in theaters when it came out.
+Best Comedy: St. Vincent
+Best Drama: Foxcatcher
+Best New Release: Boyhood 
+Best Surprise Hit: Snowpiercer
+Honorable Mentions: Birdman, Interstellar, All is Lost
+Biggest Disappointments: Men, Women & Children, American Sniper, The Hobbit: The Battle of the Five Armies
