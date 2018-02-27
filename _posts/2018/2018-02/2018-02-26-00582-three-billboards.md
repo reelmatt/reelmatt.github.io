@@ -18,7 +18,6 @@ tags:
 - John Hawkes
 - Abbie Cornish
 ---
-
 THE REVIEW: All I knew about this film before I entered the theater was seeing [this image](https://cdn.vox-cdn.com/uploads/chorus_image/image/56787203/billboard2.0.jpg) online and being instantly grabbed. What a terrific premise; the name lined up with that still and I said say no more — I wanted to know what the story behind the billboards was.
 
 *Three Billboards* is by no means a perfect film, but nevertheless it is an engrossing film. No character in this film can be described as innocent, not grieving mother Mildred Hayes (Frances McDormand), nor the racist asshole Jason Dixon (Sam Rockwell), nor the police chief William Willoughby (Woody Harrleson) who the billboards call out for inaction on Mildred's daughter's rape and murder case. Complicated doesn't even begin to describe this small mid-western town in Missouri and the lives of the locals. Everything is interrelated and one tug on the spider's web of relationships in Ebbing causes an unraveling that is scary to watch.
