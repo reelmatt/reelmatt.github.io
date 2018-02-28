@@ -16,9 +16,13 @@
 title: Reel Matt
 email: matt@reelmatt.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This blog started as my movie marathon — watching a movie a day for a whole
+  year — and has continued as a place for me to write reviews about movies, TV,
+  and various other items.
+
+  This is still a work in progress as I migrate from my old platform at Tumblr.
+  For now, you can still access the whole backlog of posts there at
+  http://reelmatt.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: reelmatt
