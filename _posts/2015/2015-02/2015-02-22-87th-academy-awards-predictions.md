@@ -2,6 +2,8 @@
 layout: post
 title: 87th Academy Awards — Predictions
 date: '2015-02-22T12:22:16-05:00'
+categories:
+- oscars
 tags:
 - Movie Marathon
 - Academy Awards

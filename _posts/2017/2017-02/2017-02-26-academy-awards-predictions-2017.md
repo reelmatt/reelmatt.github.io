@@ -3,6 +3,8 @@ layout: post
 title: 89th Academy Awards — Predictions
 date: '2017-02-26T18:38:13-05:00'
 poster: https://78.media.tumblr.com/cb0c3f3aab5d866808185b4fbe7a1012/tumblr_inline_om08zqLeMX1r46ger_500.png
+categories:
+- oscars
 tags:
 - Movie Marathon
 - Oscars

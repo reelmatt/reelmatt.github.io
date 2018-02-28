@@ -2,6 +2,8 @@
 layout: post
 title: 86th Academy Awards — Predictions
 date: '2014-03-02T15:43:00-05:00'
+categories:
+- oscars
 tags:
 - Movie Marathon
 - Academy Awards

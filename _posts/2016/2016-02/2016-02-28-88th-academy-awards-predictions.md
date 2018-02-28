@@ -2,6 +2,8 @@
 layout: post
 title: 88th Academy Awards — Predictions
 date: '2016-02-28T10:19:41-05:00'
+categories:
+- oscars
 tags:
 - Movie Marathon
 - Academy Awards

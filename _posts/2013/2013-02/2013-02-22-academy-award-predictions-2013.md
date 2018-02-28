@@ -2,6 +2,8 @@
 layout: post
 title: 85th Academy Awards - Predictions
 date: '2013-02-22T16:55:00-05:00'
+categories:
+- oscars
 tags:
 - Movie Marathon
 - Academy Awards

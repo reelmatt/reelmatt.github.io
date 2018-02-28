@@ -2,6 +2,8 @@
 layout: post
 title: 2018 Oscar Predictions
 poster: 
+categories:
+- oscars
 tags:
 - the post
 - steven spielberg

@@ -18,8 +18,8 @@
       <img src={{page.poster}} alt='poster' width='200px' class='sidePoster'>
       {% endif %}
       <h1>{{page.title}}</h1>
-      <h2>Film #{{page.film}}</h2>
-      <p>THE PLOT: {{page.plot}}</p>
+      {% if page.film %}<h2> Film #{{page.film}}</h2>{% endif %}
+      {% if page.plot %}<p>THE PLOT: {{page.plot}}</p>{% endif %}
       {{ content }}
 
       </section>
