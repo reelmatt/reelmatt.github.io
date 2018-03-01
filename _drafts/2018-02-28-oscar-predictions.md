@@ -9,13 +9,17 @@ tags:
 - 
 ---
 
+
+
+---
+
 ## BEST PICTURE
 
 Film |
 -----|
-[*Call Me by Your Name*]()|
+*Call Me by Your Name*|
 *Darkest Hour*|
-[*Dunkirk*]()|
+[*Dunkirk*](https://letterboxd.com/reelmatt/films/diary/for/2017/07/30/)|
 *Get Out*|
 *Lady Bird*|
 *Phantom Thread*|
@@ -26,7 +30,7 @@ Film |
 
 Most Deserving: **
 
-Most Likely: **
+Most Likely: *Get Out*
 
 Why:
 
@@ -42,9 +46,9 @@ Greta Gerwig | *Lady Bird*
 Paul Thomas Anderson | *Phantom Thread*
 Guillermo del Toro | *The Shape of Water*
 
-Most Deserving: 
+Most Deserving: Guillermo del Toro
 
-Most Likely: 
+Most Likely: Guillermo del Toro
 
 ---
 
@@ -58,11 +62,9 @@ Daniel Kaluuya | *Get Out*
 Gary Oldman |*Darkest Hour*
 Denzel Washington | *Roman J. Israel, Esq.*
 
-Most Deserving: 
+Most Deserving: N/A
 
-Most Likely: 
-
-Why: 
+Most Likely: Gary Oldman
 
 ---
 
@@ -94,9 +96,7 @@ Sam Rockwell | *Three Billboards outside Ebbing, Missouri*
 
 Most Deserving: Sam Rockwell
 
-Most Likely: 
-
-Why: 
+Most Likely: Sam Rockwell
 
 ---
 
@@ -112,9 +112,7 @@ Octavia Spencer | *The Shape of Water*
 
 Most Deserving: Octavia Spencer
 
-Most Likely: 
-
-Why: 
+Most Likely: Allison Janney
 
 ---
 
@@ -122,7 +120,7 @@ Why:
 
 Film     | Writer(s)
 ---------|----------
-*The Big Sick* | Emily V. Gordon and Kumail Nanjiani
+[*The Big Sick*](https://letterboxd.com/reelmatt/films/diary/for/2018/01/12/) | Emily V. Gordon and Kumail Nanjiani
 *Get Out* | Jordan Peele
 *Lady Bird* | Greta Gerwig
 *The Shape of Water* | Screenplay by Guillermo del Toro and Vanessa Taylor; Story by Guillermo del Toro
@@ -130,7 +128,7 @@ Film     | Writer(s)
 
 Most Deserving: *The Big Sick*
 
-Most Likely: **
+Most Likely: *Get Out*
 
 ---
 
@@ -140,13 +138,13 @@ Film     | Writer(s)
 ---------|----------
 *Call Me by Your Name* | James Ivory based on the novel by André Aciman
 *The Disaster Artist* | Scott Neustadter and Michael H. Weber based on the book by Greg Sestero and Tom Bissell
-*Logan* | Screenplay by Scott Frank, James Mangold and Michael Green; Story by James Mangold
+[*Logan*](https://letterboxd.com/reelmatt/films/diary/for/2017/03/26/) | Screenplay by Scott Frank, James Mangold and Michael Green; Story by James Mangold
 *Molly's Game* | Aaron Sorkin based on the memoir by Molly Bloom
 *Mudbound* | Virgil Williams and Dee Rees based on the novel by Hillary Jordan
 
 Most Deserving: *Logan*
 
-Most Likely: **
+Most Likely: *Call Me by Your Name*
 
 ---
 
@@ -178,7 +176,7 @@ Film | Country
 
 Most Deserving: N/A
 
-Most Likely: **
+Most Likely: *A Fantastic Woman*
 
 ---
 
@@ -188,13 +186,13 @@ Film |
 -----|
 *Abacus: Small Enough to Jail*|
 *Faces Places*|
-*Icaurs*|
+*Icarus*|
 *Last Men in Aleppo*|
 *Strong Island*|
 
 Most Deserving: N/A
 
-Most Likely: **
+Most Likely: *Faces Places*
 
 ---
 
@@ -203,14 +201,14 @@ Most Likely: **
 Film |
 -----|
 “Edith+Eddie"|
-"Heaving Is a Traffic Jam on the 405"|
+"Heaven Is a Traffic Jam on the 405"|
 "Heroin(e)"|
 "Knife Skills"|
 "Traffic Stop”|
 
 Most Deserving: N/A
 
-Most Likely: “"
+Most Likely: “Heroin(e)"
 
 ---
 
@@ -226,7 +224,7 @@ Film |
 
 Most Deserving: *The Shape of Water*
 
-Most Likely: **
+Most Likely: *Phantom Thread*
 
 ---
 
@@ -242,7 +240,7 @@ Song     | Film  | Artist
 
 Most Deserving: N/A
 
-Most Likely: “"
+Most Likely: “This Is Me"
 
 ---
 
@@ -253,12 +251,14 @@ Film |Composer
 *Dunkirk* | Hans Zimmer
 *Phantom Thread* | Jonny Greenwood
 *The Shape of Water* | Alexandre Desplat
-*Star Wars: The Last Jedi* | John Williams
+[*Star Wars: The Last Jedi*]({% post_url 2017/2017-12/2017-12-15-star-wars-the-last-jedi.md %}) | John Williams
 *Three Billboards outside Ebbing, Missouri* | Carter Burwell
 
 Most Deserving: *Dunkirk*
 
-Most Likely: **
+Most Likely: *The Shape of Water*
+
+Why: Far and away my favorite aspect of *Dunkirk* was its score. It is memorable, propulsive, and core piece of the film's identity. I even have several tracks saved on my Spotify — great for work to get one of the songs to turn up on shuffle. Hans Zimmer's music does always sound of the same ilk, but his past several scores have always stood out to me for different reasons and *Interstellar* was my choice for the 87th Academy Awards. In an odd coincidence, just like in 2015, it appears that Alexandre Desplat will once again walk away with the Oscar for his work on *The Shape of Water*.
 
 ---
 
@@ -272,7 +272,7 @@ Film |
 
 Most Deserving: N/A
 
-Most Likely: **
+Most Likely: *Darkest Hour*
 
 ---
 
@@ -288,7 +288,7 @@ Film |
 
 Most Deserving: *The Shape of Water*
 
-Most Likely: **
+Most Likely: *The Shape of Water*
 
 ---
 
@@ -302,11 +302,11 @@ Film |
 *The Shape of Water*|
 *Three Billboards outside Ebbing, Missouri*|
 
-Most Deserving: *Three Billboards outside Ebbing Missouri*
+Most Deserving: *Dunkirk*
 
-Most Likely: **
+Most Likely: *Baby Driver*
 
-Why: 
+Why: The consensus seems to be split between *Baby Driver* and *Dunkirk*. *Dunkirk* was the favorite by count of the sites I track when making these predictions, and war films often win this category. *Baby Driver* is my pick for its recent win at the BAFTAs, even though it may be a slight underdog odds-wise. There are a lot of films I wish I'd seen this year, and *Baby Driver* is probably at the top of that list. Trailer editing is completely separate from film editing, but based on [the trailer alone](https://www.youtube.com/watch?v=zTvJJnoWIPk) I'm going to give this the win. *Dunkirk* was phenomenal and is the most deserving of the films I saw, but even so, there were a few story-related problems that I would say are a cause of editing — everything doesn't need to always be a time-altered mess of the mind Christopher Nolan. 
 
 ---
 
@@ -322,7 +322,7 @@ Film |
 
 Most Deserving: *Dunkirk*
 
-Most Likely: **
+Most Likely: *Blade Runner 2049*
 
 ---
 
@@ -338,7 +338,7 @@ Film |
 
 Most Deserving: *Dunkirk*
 
-Most Likely: **
+Most Likely: *Dunkirk*
 
 ---
 
@@ -354,7 +354,7 @@ Film |
 
 Most Deserving: *Dunkirk*
 
-Most Likely: **
+Most Likely: *Baby Driver*
 
 ---
 
@@ -366,11 +366,11 @@ Film |
 *Guardians of the Galaxy Vol. 2*|
 *Kong: Skull Island*|
 *Star Wars: The Last Jedi*|
-*War for the Planet of the Apes*|
+[*War for the Planet of the Apes*](https://letterboxd.com/reelmatt/films/diary/for/2017/07/15/)|
 
 Most Deserving: *War for the Planet of the Apes*
 
-Most Likely: **
+Most Likely: *War for the Planet of the Apes*
 
 ---
 
@@ -386,7 +386,7 @@ Film |
 
 Most Deserving: N/A
 
-Most Likely: “"
+Most Likely: “Dear Basketball"
 
 ---
 
@@ -402,4 +402,4 @@ Film |
 
 Most Deserving: N/A
 
-Most Likely: “"
+Most Likely: “DeKalb Elementary"

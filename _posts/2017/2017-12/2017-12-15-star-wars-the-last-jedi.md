@@ -10,18 +10,18 @@ tags:
 - star wars
 - the last jedi
 - tlj
-- rain johnson
+- rian johnson
 - diasy ridley
 - adam driver
 - mark hamill
 - carrie fisher
-- John boyega
+- john boyega
 - oscar isaac
-- Andy serkis
-- lupine nyong'o
+- andy serkis
+- lupita nyong'o
 - domhnall gleeson
-- Anthony daniels
-- John williams
+- anthony daniels
+- john williams
 - porgs
 tumblr_url: http://reelmatt.com/post/168588621873/star-wars-the-last-jedi
 ---
