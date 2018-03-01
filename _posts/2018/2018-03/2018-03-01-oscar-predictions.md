@@ -5,11 +5,26 @@ poster:
 categories:
 - oscars
 tags:
+- Movie Marathon
+- Oscars
+- 90th academy awards
+- call me by your name
+- darkest hour
+- dunkirk
+- get out
+- lady bird
+- phantom thread
 - the post
-- 
+- the shape of water
+- three billboards
+- three billboards outside ebbing missouri
 ---
 
+This is now the sixth year I'm making predictions for the Academy Awards, and unlike years past I'm getting these out more than just a few hours before the ceremony starts! 2018 was an off year for me in terms of getting to the theater and see a lot of the nominees. My goal every year is to see **all** the Best Picture nominees, a feat I was able to accomplish three times (for the 85th, 87th, and 88th Academy Awards — and only one or two away the other years). Unfortunately, I only saw four of the nine nominees this year (I'm hoping to get to the theater this weekend to see one or two more, and will update this post if I do, but my predictions are locked).
 
+Of all the years to not see most of the nominees, I chose a year when there were a lot of good films to choose from. As I'll mention in a few of my explanations below about why I chose my "Most Deserving" and "Most Likely" picks, I'm really disappointed in myself for not having seen more. I've only heard outstanding things about *Get Out*, *Coco*, and *Baby Driver* (my semi-dark horse pick for Best Film Editing) among others. *Lady Bird* was less universally praised but still phenomenal and deserving of its nominations from what I've heard.
+
+Every year around Oscar time I always get back into the swing of things, watching and reviewing a lot of movies. It is my way of prepping for the Oscars and always like a reset button for me. It wasn't until I saw *Three Billboards* and *The Post* last weekend did I realize that woah, the Oscars are in a week! They really snuck up on me this year which is why I'm scrambling a bit. I make a promise every year to use this as an opportunity to really re-commit myself to this blog and these reviews, and hopefully I keep that commitment more than I have in years past. It'll never get to the level I was in Year 1 where I met my goal of watching 365 films in 365 days, but hopefully it is more than the meager 15 films I reviewed in 2017.
 
 ---
 
@@ -23,16 +38,20 @@ Film |
 *Get Out*|
 *Lady Bird*|
 *Phantom Thread*|
-[*The Post*]({% post_url 2018/2018-02/2018-02-26-00583-the-post %})|
+[*The Post*]({% post_url 2018/2018-02/2018-02-27-00583-the-post %})|
 [*The Shape of Water*]({% post_url 2018/2018-02/2018-02-19-00579-the-shape-of-water %})|
-[*Three Billboards Outside Ebbing, Missouri*]({% post_url 2018/2018-02/2018-02-26-00582-three-billboards %})|
+[*Three Billboards outside Ebbing, Missouri*]({% post_url 2018/2018-02/2018-02-26-00582-three-billboards %})|
 
 
-Most Deserving: **
+Most Deserving: *Three Billboards outside Ebbing, Missouri*
 
 Most Likely: *Get Out*
 
-Why:
+Why: A lot of people are predicting *The Shape of Water* to go home with the big win. It is nominated down-ballot for a lot of the technical awards and is posed to bring many of them home. In many ways, *The Shape of Water* is the easy, straightforward, and probably smart pick for everyone filling out ballots at home — the probabilities are in this film's favor. But I'm choosing to go with a bit of an underdog here for a few reasons. First, Best Picture is voted on using a preferential ballot as many people are quick to mention, and can be seen as the reason *Moonlight* and *Spotlight* pulled out semi-underdog wins the past two years. Second, as other, smarter, people have also noted, while winning Best Director was often a good predictor of the Best Picture winner, the last few years have split these awards, opening up greater possibilities.
+
+So, while I unfortunately haven't seen *Get Out*, it will be my risky choice for my Most Likely nominee this year. As I said in my review for *The Shape of Water*, it was a good film but wasn't my cup of tea. I understand the hype about it, but, similar to my opinions about *Silver Linings Playbook* back in 2013, I'm kind of rooting for the anti-*The Shape of Water* angle as my form of mini-protest; nothing personal, I just think there's other, better, choices — albeit, ones I haven't seen because I missed a lot this year.
+
+I'll be very curious to see who ends up walking home with the trophy. Is it the expected favorite, or will the ballot voting rules wash up more of an underdog pick. *Three Billboards* would be a good second choice pick, and more conventional one than *Get Out* for the underdog vote, but I'm sticking with my gut and choosing the February 2017 release (!) of *Get Out* (and then hopefully get a chance to watch it soon after). 
 
 ---
 
@@ -251,7 +270,7 @@ Film |Composer
 *Dunkirk* | Hans Zimmer
 *Phantom Thread* | Jonny Greenwood
 *The Shape of Water* | Alexandre Desplat
-[*Star Wars: The Last Jedi*]({% post_url 2017/2017-12/2017-12-15-star-wars-the-last-jedi.md %}) | John Williams
+[*Star Wars: The Last Jedi*]({% post_url 2017/2017-12/2017-12-15-star-wars-the-last-jedi %}) | John Williams
 *Three Billboards outside Ebbing, Missouri* | Carter Burwell
 
 Most Deserving: *Dunkirk*
