@@ -30,6 +30,8 @@ Every year around Oscar time I always get back into the swing of things, watchin
 
 ## BEST PICTURE
 
+![Academy Awards](https://78.media.tumblr.com/7cee3f506516eddf5d85192e8b888f6b/tumblr_inline_p4xaczpN9f1r46ger_500.png)
+
 Film |
 -----|
 *Call Me by Your Name*|
