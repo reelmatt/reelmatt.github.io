@@ -2,10 +2,7 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="utf-8">
-
-
 {% seo %}
-
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
 
@@ -18,8 +15,8 @@
       {{ content }}
       {% for post in site.posts limit:10 %}
       <div class='post'>
-          {% if post.poster %}
-          <img src={{post.poster}} alt='poster' width='200px' class='poster'>
+          {% if post.image %}
+          <img src={{post.image}} alt='poster' width='200' class='poster'>
       {% endif %}
           <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
           <p>{{post.plot}}</p>
