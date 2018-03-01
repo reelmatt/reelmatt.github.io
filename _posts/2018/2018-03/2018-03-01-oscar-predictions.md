@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 90th Academy Awards - Predictions
-poster: 
+poster: https://78.media.tumblr.com/7cee3f506516eddf5d85192e8b888f6b/tumblr_inline_p4xaczpN9f1r46ger_500.png
 categories:
 - oscars
 tags:
