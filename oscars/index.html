@@ -10,7 +10,7 @@ category:
 
 {% for post in site.categories.oscars limit:10 %}
 {% if post.poster %}
-<img src={{post.poster}} alt='poster' width='200px'>
+<img src={{post.poster}} alt='poster' width='200'>
 {% endif %}
 <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 <p>{{post.plot}}</p>
