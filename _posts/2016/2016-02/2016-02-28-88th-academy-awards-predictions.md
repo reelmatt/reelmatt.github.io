@@ -2,7 +2,7 @@
 layout: post
 title: 88th Academy Awards — Predictions
 date: '2016-02-28T10:19:41-05:00'
-poster: http://78.media.tumblr.com/d1b811d5742498c33101226019c10c0e/tumblr_inline_o39jm2UAC01r46ger_500.png
+image: http://78.media.tumblr.com/d1b811d5742498c33101226019c10c0e/tumblr_inline_o39jm2UAC01r46ger_500.png
 categories:
 - oscars
 tags:
