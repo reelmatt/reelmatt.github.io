@@ -1,42 +1,37 @@
 <!doctype html>
-
-<head xmlns="http://www.w3.org/1999/html">
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-
     {% seo %}
-
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-</head>
 
+</head>
 <body>
     <div class="wrapper">
         {% include header.html %}
-
         <section>
 
             {{ content }}
 
+            {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+                {% for year in postsByYear limit:2 %}
+                <h1>{{ year.name }}</h1>
+                    {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+                    {% for month in postsByMonth limit:2 %}
+                    <h2>{{ month.name }}</h2>
+                    <ul>
+                    {% for post in month.items %}
+                    <li><a href="{{ post.url }}">{% if post.film %}Film #{{post.film}} - {% endif %}{{ post.title }}</a></li>
+                    {% endfor %}
+                    </ul>
+                    {% endfor %}
+                {% endfor %}
+
         </section>
+        {% include footer.html %}
 
-
-        <div class="header-title">
-            <div class="header-title-wrap">
-                <h1>{{ site.title }}</h1>
-                <h2>{{ page.title }}</h2>
-            </div>
-        </div>
     </div>
-
-    <section>
-        {{ content }}
-    </section>
-
-          {% include footer.html %}
 
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
