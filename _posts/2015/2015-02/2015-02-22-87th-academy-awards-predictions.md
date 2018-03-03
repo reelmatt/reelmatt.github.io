@@ -2,7 +2,7 @@
 layout: post
 title: 87th Academy Awards — Predictions
 date: '2015-02-22T12:22:16-05:00'
-poster: http://78.media.tumblr.com/e9b39d6a603c624a7356d1c4010d22f6/tumblr_inline_nk6ma3D4g31r46ger.png
+image: http://78.media.tumblr.com/e9b39d6a603c624a7356d1c4010d22f6/tumblr_inline_nk6ma3D4g31r46ger.png
 categories:
 - oscars
 tags:
