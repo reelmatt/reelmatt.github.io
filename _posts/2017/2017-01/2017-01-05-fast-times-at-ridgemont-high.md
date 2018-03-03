@@ -4,7 +4,7 @@ title: Fast Times at Ridgemont High
 date: '2017-01-05T19:01:39-05:00'
 image: https://images-na.ssl-images-amazon.com/images/M/MV5BYzBlZjE1MDctYjZmZC00ZTJmLWFkOWEtYjdmZDZkODBkZmI2XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 566
-plot: A group of Southern California high school students are enjoying their most important subjects: sex, drugs and rock n’ roll.
+plot: A group of Southern California high school students are enjoying their most important subjects - sex, drugs and rock n’ roll.
 rating: 2
 tags:
 - Movie Marathon

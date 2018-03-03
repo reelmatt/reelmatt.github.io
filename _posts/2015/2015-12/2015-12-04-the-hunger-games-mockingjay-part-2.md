@@ -2,6 +2,10 @@
 layout: post
 title: The Hunger Games: Mockingjay — Part 2
 date: '2015-12-04T18:34:28-05:00'
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BNjQzNDI2NTU1Ml5BMl5BanBnXkFtZTgwNTAyMDQ5NjE@._V1_UX182_CR0,0,182,268_AL_.jpg
+film: 543
+plot: As the war of Panem escalates to the destruction of other districts by the Capitol, Katniss Everdeen, the reluctant leader of the rebellion, must bring together an army against President Snow, while all she holds dear hangs in the balance.
+rating: 3
 tags:
 - Movie Marathon
 - The Hunger Games
@@ -22,13 +26,10 @@ tags:
 - Gwendoline Christie
 tumblr_url: http://reelmatt.com/post/134553601563/the-hunger-games-mockingjay-part-2
 ---
-Year 4, Film #8 (Total #543)
-
-THE PLOT: As the war of Panem escalates to the destruction of other districts by the Capitol, Katniss Everdeen, the reluctant leader of the rebellion, must bring together an army against President Snow, while all she holds dear hangs in the balance.
 
 THE REVIEW: At the end of my review for Mockingjay — Part 1, I remarked that the movie, “is clearly leading into something much bigger, and presumably better.” Well, it looks like I presumed wrongly. Part 2 isn’t a bad film by any stretch of the imagination; there’s no glaring plot holes, you can keep track of the action taking place, and the characters are all familiar. But this last installment in The Hunger Games franchise suffers greatly from the splitting into two parts and being treated like another episode in a TV series.
 
-As far as I know, Harry Potter was the first franchise¹ to split the last film into two parts, followed by Twilight, The Hunger Games, Divergent, and others. While Harry Potter and the Deathly Hallows had the same feeling of stopping mid-movie and then returning from black for the second film, I don’t recall it being problematic or hurting my impression of the film. The two parts flowed much better into one another and felt complete both separately and as a whole. Mockingjay does not have the same feel to it; the two parts feel disparate.
+As far as I know, Harry Potter was the first franchise[^1] to split the last film into two parts, followed by Twilight, The Hunger Games, Divergent, and others. While Harry Potter and the Deathly Hallows had the same feeling of stopping mid-movie and then returning from black for the second film, I don’t recall it being problematic or hurting my impression of the film. The two parts flowed much better into one another and felt complete both separately and as a whole. Mockingjay does not have the same feel to it; the two parts feel disparate.
 
 I have a strong inkling that the reason for this may be the increased duration between releases. The final Harry Potter films were released eight months apart whereas Mockingjay — Part 2 was released a full year after Part 1. It may not seem like a lot, and it really isn’t. But for some reason — perhaps a lesser interest in Katniss and co. than Harry and co. — the spread felt entirely disproportionate. Going into the theater, I remarked to my friends that it felt like over two years since I saw Part 1 and the only reason I knew what happened was because I had also read the books.
 
@@ -38,4 +39,4 @@ THE TAKEAWAY: Perhaps my desire to see more of the world of Panem and the trek t
 
 THE RATING: 3 out of 5
 
-¹ Coppola’s The Godfather sequel technically has Part II in the title, but it’s not the same thing as these YA films.
+[^1]: Coppola’s The Godfather sequel technically has Part II in the title, but it’s not the same thing as these YA films.

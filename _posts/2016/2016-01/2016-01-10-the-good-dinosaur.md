@@ -23,9 +23,6 @@ tags:
 - Sam Elliott
 tumblr_url: http://reelmatt.com/post/137025934538/the-good-dinosaur
 ---
-Year 4, Film #13 (Total #548)
-
-THE PLOT: 
 
 THE REVIEW: Pixar already struck big this year with [*Inside Out*][1] but they strike again with the visually stunning *The Good Dinosaur*. Visually stunning [seems to be the consensus][2] of most critics and anyone who tells you otherwise is probably not seeing the same movie everyone else is. It uses a [new animation technique for Pixar][3] and while the director of photography Sharon Calahan says it’s not, “exactly photorealistic” but rather “authentic”, it looks pretty darn photorealistic to me and is incredible to watch. Every single shot; wide landscapes to closeups on the dinos.
 
