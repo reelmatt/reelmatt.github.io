@@ -15,7 +15,7 @@
             {{ content }}
 
             {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-                {% for year in postsByYear limit:2 %}
+                {% for year in postsByYear limit:3 %}
                 <h1>{{ year.name }}</h1>
                     {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
                     {% for month in postsByMonth %}

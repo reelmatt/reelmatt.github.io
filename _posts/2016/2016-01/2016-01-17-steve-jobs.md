@@ -2,6 +2,10 @@
 layout: post
 title: Steve Jobs
 date: '2016-01-17T21:24:29-05:00'
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0NTA2MTEwOV5BMl5BanBnXkFtZTgwNzg4NzU2NjE@._V1_UX182_CR0,0,182,268_AL_.jpg
+film: 552
+plot: Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac.
+rating: 4
 tags:
 - Movie Marathon
 - Steve Jobs
@@ -16,9 +20,6 @@ tags:
 - John Ortiz
 tumblr_url: http://reelmatt.com/post/137521601383/steve-jobs
 ---
-Year 4, Film #17 (Total #552)
-
-THE PLOT: Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac.
 
 THE REVIEW: Steve Jobs is without a doubt a great film. Terrifically acted with wonderful dialogue written by Aaron Sorkin. I enjoyed this film for those two reasons: the acting and the writing. Others took qualms with the fact that this wasn’t an accurate portrayal of who Steve Jobs was and that it was highly exaggerated to highlight his negative attributes rather than focusing on the positives. This is also true, and I would consider quite clear. Now this may be because I’m a big Apple fan and am aware of much of Jobs’ history and life, including his rocky relationship with Chrisann Brennan and his daughter Lisa whom he denied was his actual daughter.
 
