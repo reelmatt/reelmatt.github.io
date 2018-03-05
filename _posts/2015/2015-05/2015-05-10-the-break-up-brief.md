@@ -30,5 +30,5 @@ As with a lot of the films I’ve been watching recently, The Break-Up doesn’t
 
 THE RATING: 3 out of 5
 
-[1]: {% post_url 2013/2013-02/2013-02-13-blue-valentine.md %}
-[2]: {% post_url 2012/2012-12/2012-12-07-wedding-crashers.md %}
+[1]: {% post_url 2013/2013-02/2013-02-13-blue-valentine %}
+[2]: {% post_url 2012/2012-12/2012-12-07-wedding-crashers %}
