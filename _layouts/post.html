@@ -12,7 +12,7 @@
       {% include header.html %}
       <section>
         {% if page.categories[0] != "oscars" %}
-          <img src={{page.image}} alt='poster' width='200' class='sidePoster'>
+          {% if page.image %}<img src={{page.image}} alt='poster' width='200' class='sidePoster'>{% endif %}
         {% endif %}
 
       <h1>{{page.title}}</h1>
