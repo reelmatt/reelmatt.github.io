@@ -4,7 +4,7 @@ title: Casablanca
 date: '2013-01-19T15:53:43-05:00'
 image: 
 film: 206
-plot: Set in unoccupied Africa during the early days of World War II: An American expatriate meets a former lover, with unforeseen complications.
+plot: Set in unoccupied Africa during the early days of World War II - An American expatriate meets a former lover, with unforeseen complications.
 rating: 3
 tags:
 - Movie Marathon
