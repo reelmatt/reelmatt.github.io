@@ -59,4 +59,4 @@ Pixar has always been able to make films that tug at our heartstrings and create
 **Biggest Disappointments:** *The Rock* and *The Abyss*
 
 [1]: https://www.amazon.com/Ex-Machina-Blu-ray-Corey-Johnson/dp/B00XI057M0
-[2]: {% post_url 2015/2015-07/2015-07-06-year-3-in-review %}
+[2]: {% post_url summary/2015-07-06-year-3-in-review %}

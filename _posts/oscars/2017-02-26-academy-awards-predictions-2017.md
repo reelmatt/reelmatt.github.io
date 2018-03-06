@@ -27,10 +27,10 @@ But I also write this during a bit of a resurgence for me. After barely watching
 
 I usually take this time to give a recap of how I’ve done in previous years, but I’m running up against my publishing deadline, so I’m simply just going to include links for now to my [2013], [2014], [2015], and [2016] predictions where you can see for yourself. I’m hoping this year can be more like 2014 where I got 92% correct. This year seems a bit more straightforward with some contentious races, but the others not so much (read: expect a *La La Land* near clean sweep, ugh). Last disclosure, whereas most years I spend weeks researching what the critics and prognosticators think about who will win the trophies, this year that time is only a few hours (because again, I really procrastinated this year). But see below for my personal pick for Most Deserving and who I think is Most Likely. 
 
-[2013]: {% post_url 2013/2013-02/2013-02-22-academy-award-predictions-2013 %}
-[2014]: {% post_url 2014/2014-03/2014-03-02-academy-awards-predictions-2014 %}
-[2015]: {% post_url 2015/2015-02/2015-02-22-87th-academy-awards-predictions %}
-[2016]: {% post_url 2016/2016-02/2016-02-28-88th-academy-awards-predictions %}
+[2013]: {% post_url oscars/2013-02-22-academy-award-predictions-2013 %}
+[2014]: {% post_url oscars/2014-03-02-academy-awards-predictions-2014 %}
+[2015]: {% post_url oscars/2015-02-22-87th-academy-awards-predictions %}
+[2016]: {% post_url oscars/2016-02-28-88th-academy-awards-predictions %}
 ---
 
 ## BEST PICTURE
