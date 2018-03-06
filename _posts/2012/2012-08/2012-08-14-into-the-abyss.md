@@ -2,16 +2,19 @@
 layout: post
 title: Into the Abyss
 date: '2012-08-14T22:51:19-04:00'
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BNTQyODM2MzMxMV5BMl5BanBnXkFtZTcwNDIzNjY5Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg
+film: 47
+plot: Conversations with death row inmate Michael Perry and those affected by his crime serve as an examination of why people - and the state - kill.
+rating: 4
 tags:
 - movie marathon
 - into the abyss
 tumblr_url: http://reelmatt.com/post/29454221396/into-the-abyss
 ---
-Year 1, Day 45: Movie #47
+
+Year 1, Day 45
 
 BEFORE: I’ve filed Into the Abyss under the miscellaneous subchain of the documentaries as it doesn’t deal with the United States per se. It takes place in Texas and deals with the death penalty, but I have a feeling it will be taking a more thematic approach as opposed to focusing on laws in the U.S. specifically. Also of note: this is the second Werner Herzog film of this chain (and marathon), the first being Encounters at the End of the World.
-
-THE PLOT: Conversations with death row inmate Michael Perry and those affected by his crime serve as an examination of why people - and the state - kill.
 
 AFTER: Capital punishment is a very controversial issue with very ardent supporters and opponents. Into the Abyss looks very deeply into this issue and uncovers some shocking revelations from people on both sides of the topic.
 
