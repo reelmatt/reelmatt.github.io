@@ -25,7 +25,7 @@ Falsely accused of murdering his wife, Dr. Kimble (Harrison Ford) goes on the ru
 ### [*Inglourious Basterds*]({% post_url 2012/2012-07/2012-07-24-inglourious-basterds %})
 An alternate history of World War II, this Tarantino film was even better the second time. It has a perfect mix of elements from acting to direction and is one of Tarantino’s best films to date.
 
-### [*Kramer vs. Kramer*]({% post_url 2012/2012-07/2012-07-28-kramer-vs-kramer.md %})
+### [*Kramer vs. Kramer*]({% post_url 2012/2012-07/2012-07-28-kramer-vs-kramer %})
 What impressed me the most about this film was the child, Billy (Justin Henry). This film is a tale of divorce and the effects it has on all parties involved and Henry was the key to making it all work seamlessly.
 
 ### [*This Film is Not Yet Rated*]({% post_url 2012/2012-08/2012-08-07-this-film-is-not-yet-rated %})
