@@ -3,7 +3,7 @@ layout: post
 title: Three Billboards outside Ebbing, Missouri
 date: '2018-02-25T18:46:11-05:00'
 image: https://images-na.ssl-images-amazon.com/images/M/MV5BZTZjYzU2NTktNTdmNi00OTM0LTg5MDgtNGFjOGMzNjY0MDk5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX675_CR0,0,675,999_AL_.jpg
-film: 582
+film: 581
 plot: A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.
 rating: 5
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: Helvetica
 date: '2012-08-10T21:28:36-04:00'
 image: https://images-na.ssl-images-amazon.com/images/M/MV5BZWE0MmIyMjUtZjMwZi00M2NmLTkzOTAtNjM4MzkwMTBjNjZiL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR4,0,182,268_AL_.jpg
-film: 41
+film: 42
 plot: A documentary about typography, graphic design, and global visual culture.
 rating: 3
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: 'Star Wars: The Last Jedi'
 date: '2017-12-15T19:45:59-05:00'
 image: https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SY1000_CR0,0,675,1000_AL_.jpg
-film: 578
+film: 577
 plot: Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.
 rating: 4
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: Hidden Figures
 date: '2017-02-26T16:34:57-05:00'
 image: https://images-na.ssl-images-amazon.com/images/M/MV5BMzg2Mzg4YmUtNDdkNy00NWY1LWE3NmEtZWMwNGNlMzE5YzU3XkEyXkFqcGdeQXVyMjA5MTIzMjQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg
-film: 576
+film: 575
 plot: The story of a team of African-American women mathematicians who served a vital role in NASA during the early years of the US space program.
 rating: 5
 tags:

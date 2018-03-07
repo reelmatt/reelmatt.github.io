@@ -3,7 +3,7 @@ layout: post
 title: Hacksaw Ridge
 date: '2017-02-26T16:41:54-05:00'
 image: https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_SY1000_CR0,0,647,1000_AL_.jpg
-film: 577
+film: 576
 plot: WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people, and becomes the first man in American history to receive the Medal of Honor without firing a shot.
 rating: 4
 tags:

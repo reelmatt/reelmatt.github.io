@@ -3,7 +3,7 @@ layout: post
 title: Moonlight
 date: '2017-01-26T19:56:54-05:00'
 image: https://images-na.ssl-images-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_UX182_CR0,0,182,268_AL_.jpg
-film: 570
+film: 569
 plot: A timeless story of human self-discovery and connection, Moonlight chronicles the life of a young black man from childhood to adulthood as he struggles to find his place in the world while growing up in a rough neighborhood of Miami.
 rating: 4
 tags:
