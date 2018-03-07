@@ -2,7 +2,7 @@
 layout: post
 title: Silver Linings Playbook
 date: '2012-10-16T22:11:16-04:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2MTI5NzA3MF5BMl5BanBnXkFtZTcwODExNTc0OA@@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 109
 plot: After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.
 rating: 4

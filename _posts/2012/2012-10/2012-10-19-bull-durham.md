@@ -2,7 +2,7 @@
 layout: post
 title: Bull Durham
 date: '2012-10-19T15:15:31-04:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2ODkyOTQ2M15BMl5BanBnXkFtZTcwNTQ2NjgyNA@@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 111
 plot: A fan who has an affair with one minor-league baseball player each season meets an up-and-coming pitcher and the experienced catcher assigned to him.
 rating: 4

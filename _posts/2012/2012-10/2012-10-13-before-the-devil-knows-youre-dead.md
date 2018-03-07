@@ -2,7 +2,7 @@
 layout: post
 title: Before the Devil Knows You're Dead
 date: '2012-10-13T20:04:43-04:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NzM2ODQxNF5BMl5BanBnXkFtZTcwMDczMDU1MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 106
 plot: When two brothers organize the robbery of their parents’ jewelry store the job goes horribly wrong, triggering a series of events that sends them, their father and one brother’s wife hurtling towards a shattering climax.
 rating: 4

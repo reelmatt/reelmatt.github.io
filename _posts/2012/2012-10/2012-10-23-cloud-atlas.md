@@ -2,7 +2,7 @@
 layout: post
 title: Cloud Atlas
 date: '2012-10-23T07:16:22-04:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTczMTgxMjc4NF5BMl5BanBnXkFtZTcwNjM5MTA2OA@@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 114
 plot: An exploration of how the actions of individual lives impact one another in the past, present and future, as one soul is shaped from a killer into a hero, and an act of kindness ripples across centuries to inspire a revolution.
 rating: 5
@@ -14,11 +14,11 @@ tumblr_url: http://reelmatt.com/post/34159830033/cloud-atlas
 
 Year 1, Day 114
 
-BEFORE: I have very mixed feelings going into today’s advanced screening of Cloud Atlas. There have been a few trailers released including an extended six-minute trailer and lots of positive buzz from the screening from the Toronto International Film Festival. The film, like the novel it is based off of, and which I haven’t read, is a very complex and confusing story. Starring Tom Hanks (last seen in A League of Their Own) who has six roles, Halle Berry who also has six roles, and Hugo Weaving who again has six roles.
+BEFORE: I have very mixed feelings going into today’s advanced screening of Cloud Atlas. There have been [a few trailers][1] released including an extended six-minute trailer and lots of [positive buzz from the screening][2] from the Toronto International Film Festival. The film, like the novel it is based off of, and which I haven’t read, is a very complex and confusing story. Starring Tom Hanks (last seen in A League of Their Own) who has six roles, Halle Berry who also has six roles, and Hugo Weaving who again has six roles.
 
 I’m cautiously optimistic going in. I want the film to be good because, even though it’s an adaptation, it’s original. Like Christopher Nolan did with Inception, Tom Tykwer and the Wachowski’s are assuming the audience is smart and educated and catering to that as opposed to your basic blockbuster-explosion-fest. But I can’t help but think this is a bit too ambitious to pull off. I guess only time will tell.
 
-AFTER: If Cloud Atlas does one thing, it makes you reconsider things you take for granted. Watching this film, I made connections to two separate media: Carl Sagan’s Pale Blue Dot and the Battlestar Galactica quote “All of this has happened before, and all of this will happen again.” These two connections relate to two of the biggest questions/revelations of Cloud Atlas and they are: Earth is very small when considered on a universal scale; and why do we keep making the same mistakes over and over again. Keep these ideas in mind as I go on to talk about how the film played out.
+AFTER: If Cloud Atlas does one thing, it makes you reconsider things you take for granted. Watching this film, I made connections to two separate media: Carl Sagan’s [Pale Blue Dot][3] and the Battlestar Galactica quote “All of this has happened before, and all of this will happen again.” These two connections relate to two of the biggest questions/revelations of Cloud Atlas and they are: Earth is very small when considered on a universal scale; and why do we keep making the same mistakes over and over again. Keep these ideas in mind as I go on to talk about how the film played out.
 
 I won’t lie to you. Cloud Atlas is very confusing, long, and hard to follow at times. Lots of people will complain about this and have a problem that there’s too much talking and not enough action. Inception made audiences think as well but it was much more appealing on the outside that Cloud Atlas is. This being said, I enjoyed it very much.
 
@@ -31,3 +31,7 @@ I think the choice is easy as to whether or not you should see Cloud Atlas; a r
 Cloud Atlas opens in theaters this Friday, October 26.
 
 RATING: 5 out of 5
+
+[1]: http://trailers.apple.com/trailers/wb/cloudatlas/
+[2]: https://artsbeat.blogs.nytimes.com/2012/09/08/toronto-gets-a-look-at-cloud-atlas/?pagewanted=all
+[3]: https://www.youtube.com/watch?v=GO5FwsblpT8

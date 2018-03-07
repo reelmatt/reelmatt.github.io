@@ -2,7 +2,7 @@
 layout: post
 title: Dawn of the Dead
 date: '2012-10-28T15:20:58-04:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMzc1YTIyNjctYzhlNy00ZmYzLWI2ZWQtMzk4MmQwYzA0NGQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 120
 plot: Following an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.
 rating: 3

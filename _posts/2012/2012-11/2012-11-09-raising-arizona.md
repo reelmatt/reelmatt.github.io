@@ -2,7 +2,7 @@
 layout: post
 title: Raising Arizona
 date: '2012-11-09T16:13:56-05:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BOGUwZTEwZTYtZmQ0OS00NmM1LWE2ZTQtNjZiYmE4ZmUxMjk1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 130
 plot: When a childless couple of an ex-con and an ex-cop decide to help themselves to one of another family’s quintupelets, their lives get more complicated than they anticipated.
 rating: 2

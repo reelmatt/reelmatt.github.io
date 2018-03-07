@@ -2,7 +2,7 @@
 layout: post
 title: Burn After Reading
 date: '2012-11-09T21:56:00-05:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BYzYwMjZhOGEtMGZlZS00Mjg1LTlkMDktYzJiZDU4MzAxZDRiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 131
 plot: A disk containing the memoirs of a CIA agent ends up in the hands of two unscrupulous gym employees who attempt to sell it.
 rating: 4

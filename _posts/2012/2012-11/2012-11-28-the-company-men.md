@@ -2,7 +2,7 @@
 layout: post
 title: The Company Men
 date: '2012-11-28T23:38:24-05:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTQxMTgyNDc5M15BMl5BanBnXkFtZTcwMzk4OTM5Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 151
 plot: The story centers on a year in the life of three men trying to survive a round of corporate downsizing at a major company - and how that affects them, their families, and their communities.
 rating: 4

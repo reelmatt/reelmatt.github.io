@@ -2,7 +2,7 @@
 layout: post
 title: Contagion
 date: '2012-11-24T22:54:49-05:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MDk5MDc3OV5BMl5BanBnXkFtZTcwNzAyNTg0Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 147
 plot: A thriller centered on the threat posed by a deadly disease and an international team of doctors contracted by the CDC to deal with the outbreak.
 rating: 4

@@ -2,7 +2,7 @@
 layout: post
 title: Synecdoche, New York
 date: '2012-10-14T14:57:31-04:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0MjIyOTI3MF5BMl5BanBnXkFtZTcwODM5NTY5MQ@@._V1_UY268_CR0,0,182,268_AL_.jpg
 film: 107
 plot: A theater director struggles with his work, and the women in his life, as he attempts to create a life-size replica of New York inside a warehouse as part of his new play.
 rating: 4

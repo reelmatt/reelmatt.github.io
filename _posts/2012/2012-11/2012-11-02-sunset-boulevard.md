@@ -2,7 +2,7 @@
 layout: post
 title: Sunset Boulevard
 date: '2012-11-02T16:32:35-04:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 125
 plot: A hack screenwriter writes a screenplay for a former silent-film star who has faded into Hollywood obscurity.
 rating: 3
@@ -18,7 +18,7 @@ BEFORE: It’s time to turn back the clocks a bit here (in advance of the impend
 
 AFTER: In what seems to be a pattern recently, I’ll preface the review of the actual film with my opinions on the type of film Sunset Boulevard is and then go into how that applies to specifics.
 
-As a broad generalization, I don’t find older films as entertaining as newer films. There are many great counter-examples, Gone with the Wind and The Wizard of Oz being ones from this marathon, but if you gave me a generic film from the 1960s or earlier, chances are I wouldn’t find it entertaining. And it’s nothing against the films or the filmmakers of the time; it just was a different way of making film back then. Back then the acting was more expressive rather than subtle, visuals could be extravagant but most were basic, and the audio is not as complex and nuanced as it is in today’s films. As a film student I can appreciate these things and force myself to look at these films in a different way to be entertained by them, but as someone who wants to be wowed by what’s on the screen, old films have to work overtime to do that.
+As a broad generalization, I don’t find older films as entertaining as newer films. There are many great counter-examples, [*Gone with the Wind*][1] and [*The Wizard of Oz*][2] being ones from this marathon, but if you gave me a generic film from the 1960s or earlier, chances are I wouldn’t find it entertaining. And it’s nothing against the films or the filmmakers of the time; it just was a different way of making film back then. Back then the acting was more expressive rather than subtle, visuals could be extravagant but most were basic, and the audio is not as complex and nuanced as it is in today’s films. As a film student I can appreciate these things and force myself to look at these films in a different way to be entertained by them, but as someone who wants to be wowed by what’s on the screen, old films have to work overtime to do that.
 
 Sunset Boulevard put up a decent fight. At it’s base was a good story with an interesting way of telling it. The film is told mainly through voice over narration with a very slight nonlinear organization; a great hook in the beginning but ran stale very quickly. Another appeal to the film was it’s inclusion of Hollywood and people in the industry like Cecil B. DeMille. For me anyway, it was interesting to see some of the goings-on back in the day.
 
@@ -27,3 +27,6 @@ But as a whole, Sunset Boulevard seemed to drag on and on. I found myself easi
 Unlike last night with Rise of the Guardians, I could not step away from the film and my preconceived notions about older films to appreciate Sunset Boulevard for what it is. The fact is: people enjoyed the film and it was even nominated for Best Picture. That doesn’t automatically make it a great film but it does mean that it is not hated by everyone. Me for instance, I found some good and bad in Sunset Boulevard and would recommend it for those interested in watching something not from this decade; you may like it more than I did.
 
 RATING: 3 out of 5
+
+[1]: {% post_url 2012/2012-07/2012-07-26-gone-with-the-wind %}
+[2]: {% post_url 2012/2012-07/2012-07-25-the-wizard-of-oz %}

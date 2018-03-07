@@ -2,7 +2,7 @@
 layout: post
 title: The Panic in Needle Park
 date: '2012-11-07T23:18:59-05:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BZTFkYTRmNGYtZDU3OS00NTQ5LTg3YTktYzI5MjI5YmUxYjAxXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 128
 plot: This movie is a stark portrayal of life among a group of heroin addicts who hang out in “Needle Park” in New York City.
 rating: 2

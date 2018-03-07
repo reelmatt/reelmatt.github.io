@@ -2,7 +2,7 @@
 layout: post
 title: Chasing Amy
 date: '2012-11-29T23:59:54-05:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BZDM3MTg2MGUtZDM0MC00NzMwLWE5NjItOWFjNjA2M2I4YzgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 152
 plot: Holden and Banky are comic book artists. Everything’s going good for them until they meet Alyssa, also a comic book artist. Holden falls for her, but his hopes are crushed when he finds out she’s a lesbian.
 rating: 3

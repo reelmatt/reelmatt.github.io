@@ -2,7 +2,7 @@
 layout: post
 title: Seven Psychopaths
 date: '2012-10-04T22:43:00-04:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwMzUxMjc0M15BMl5BanBnXkFtZTcwMzQ2MjYyOA@@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 97
 plot: A struggling screenwriter inadvertently becomes entangled in the Los Angeles criminal underworld after his oddball friends kidnap a gangster’s beloved Shih Tzu.
 rating: 5
@@ -14,7 +14,7 @@ tumblr_url: http://reelmatt.com/post/32916543793/seven-psychopaths
 
 Year 1, Day 96
 
-BEFORE: Tonight’s advanced screening is provided courtesy of Emerson College. Seven Psychopaths is being shown at the Bright Family Screening Room which, if I recall, is much smaller than an average theater.1 Featuring a large ensemble cast including Colin Farrell, Sam Rockwell, Woody Harrelson (last seen in Rampart), and many, many more. Based on the trailer, the film looks quite bizarre although I’m unsure whether that will be good or bad.
+BEFORE: Tonight’s advanced screening is provided courtesy of Emerson College. Seven Psychopaths is being shown at the Bright Family Screening Room which, if I recall, is much smaller than an average theater[^1]. Featuring a large ensemble cast including Colin Farrell, Sam Rockwell, Woody Harrelson (last seen in Rampart), and many, many more. Based on the trailer, the film looks quite bizarre although I’m unsure whether that will be good or bad.
 
 AFTER: When I said that trailer made the film look bizarre, I had no idea just how bizarre it would actually be. And boy does it work to the films advantage.
 
@@ -26,11 +26,12 @@ A big part of this film’s appeal is its self-referential nature. This ties in 
 
 Martin McDonagh deserves a lot of credit for the writing and overall style of the film, but a lot of credit must also be given to the cast. There really isn’t one standout actor, but combined, the cast delivers a knockout performance. In addition to the aforementioned Farrell, Rockwell, and Harrelson, Christopher Walken, Abbie Cornish, Olga Kurlenko, and Željko Ivanek (last seen in Argo) round out this quite large ensemble.
 
-A few days ago, I wrote a large reflection piece where I summarized the top films I’ve watched over the past three months. Pitch Perfect handily took the spot for Best Comedy. Because of its unique style, intellectual humor, and fantastic cast, Seven Psychopaths easily trumps the teen musical as my new favorite for Best Comedy. You should put this on your must see list immediately for a truly fresh and original film.
+A few days ago, [I wrote a large reflection piece][1] where I summarized the top films I’ve watched over the past three months. Pitch Perfect handily took the spot for Best Comedy. Because of its unique style, intellectual humor, and fantastic cast, Seven Psychopaths easily trumps the teen musical as my new favorite for Best Comedy. You should put this on your must see list immediately for a truly fresh and original film.
 
 Seven Psychopaths opens in theaters on October 12, 2012.
 
 RATING: 5 out of 5
 
-Update: the theater capacity is 170 persons and it is non-stadium style seating meaning the rows are much more horizontal than a normal theater. ↩
+[^1]: Update: the theater capacity is 170 persons and it is non-stadium style seating meaning the rows are much more horizontal than a normal theater. ↩
 
+[1]: {% post_url summary/2012-10-01-top-films-days-1-90 %}

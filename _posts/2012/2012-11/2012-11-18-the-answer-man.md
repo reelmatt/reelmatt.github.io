@@ -2,7 +2,7 @@
 layout: post
 title: The Answer Man
 date: '2012-11-18T22:07:38-05:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0MTk3MTQxOTheQTJeQWpwZ15BbWU3MDAxMTIwNjI@._V1_UY268_CR0,0,182,268_AL_.jpg
 film: 141
 plot: A reclusive author of spiritual books, is pursued for advice by a single mother and a man fresh out of rehab.
 rating: 2

@@ -2,7 +2,7 @@
 layout: post
 title: Real Steel
 date: '2012-10-02T20:37:54-04:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzMzEzNjg0N15BMl5BanBnXkFtZTcwMzg4NDk0Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 95
 plot: Set in the near future, where robot boxing is a top sport, a struggling promoter feels he’s found a champion in a discarded robot. During his hopeful rise to the top, he discovers he has an 11-year-old son who wants to know his father.
 rating: 5
@@ -22,6 +22,10 @@ I pretty much covered the story already (read: a textbook underdog story) but I�
 
 Speaking about lively characters, lets talk about the acting. I don’t know what’s going on, but there are some top-notch child actors these days. In the past couple years we’ve seen the talents of Pierce Gagnon in the new release Looper, Asa Butterfield of Hugo fame (and the upcoming Ender’s Game adaptation), and now today’s Dakota Goyo who plays Max Kenton, Charles Kenton’s (Hugh Jackman) son. This has got to be one of the coolest kids I’ve ever seen. The swag just flows out of him as he trains and dances with Atom, his fighting robot. And the chemistry between him and his father is great. Jackman and Goyo just click and it’s very apparent in their actions and expressions.
 
-No matter how much you may think this is Rock ‘Em Sock ‘Em Robots: The Movie, it isn’t. Real Steel is much more than a line of toys turned into a movie. And while it may be a clichéd underdog story, like a certain Philadelphian boxer, it’s still a story that is told well with superb acting.
+No matter how much you may think this is Rock ‘Em Sock ‘Em Robots: The Movie, it isn’t. Real Steel is much more than [a line of toys][1] turned [into a movie][2]. And while it may be a clichéd underdog story, like [a certain Philadelphian boxer][3], it’s still a story that is told well with superb acting.
 
 RATING: 5 out of 5
+
+[1]: http://www.imdb.com/title/tt0418279/
+[2]: http://www.imdb.com/title/tt1440129/
+[3]: http://www.imdb.com/title/tt0075148/

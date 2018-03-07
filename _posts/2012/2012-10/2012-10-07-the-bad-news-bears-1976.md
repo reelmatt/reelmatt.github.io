@@ -2,7 +2,7 @@
 layout: post
 title: The Bad News Bears (1976)
 date: '2012-10-07T14:23:33-04:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BNTU1ZjNmNjktNjk4Yy00MzdjLTk0YzktMDRlYTllMjE0N2I0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 100
 plot: An aging, down-on-his-luck ex-minor leaguer coaches a team of misfits in an ultra-competitive California little league.
 rating: 4

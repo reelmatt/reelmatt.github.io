@@ -2,7 +2,7 @@
 layout: post
 title: 'Team America: World Police'
 date: '2012-11-19T15:00:54-05:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2Nzc4NjYxMV5BMl5BanBnXkFtZTcwNTM1MTcyMQ@@._V1_UY268_CR4,0,182,268_AL_.jpg
 film: 142
 plot: Popular Broadway actor Gary Johnston is recruited by the elite counter-terrorism organization Team America World Police. As the world begins to crumble around him, he must battle with terrorists, celebrities and falling in love.
 rating: 4

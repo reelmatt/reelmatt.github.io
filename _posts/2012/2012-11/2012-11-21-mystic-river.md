@@ -2,7 +2,7 @@
 layout: post
 title: Mystic River
 date: '2012-11-21T13:43:58-05:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTIzNDUyMjA4MV5BMl5BanBnXkFtZTYwNDc4ODM3._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 144
 plot: With a childhood tragedy that overshadowed their lives, three men are reunited by circumstance when one loses a daughter.
 rating: 4
@@ -14,7 +14,7 @@ tumblr_url: http://reelmatt.com/post/36222444483/mystic-river
 
 Year 1, Day 144
 
-BEFORE: After waking up early, as in before the sun rise, this morning to travel back home for Thanksgiving, it’s time for the first of two Clint Eastwood directed films, Mystic River. What better way to celebrate being back home then watching a film about the place I just left. This is the first Eastwood directed film in the marathon since Blood Work on Day 11 (his most recent performance in the marathon was Trouble with the Curve back in mid-September but he didn’t direct that). Mystic River was nominated for six Academy Awards and won two, Best Actor and Best Supporting Actor (the first film since Ben-Hur in 1959 to do so) but it had no chance of winning being up against a personal favorite, Lord of the Rings: The Return of the King. (All that Oscar info was grabbed from, you guessed it, Wikipedia.)
+BEFORE: After waking up early, as in before the sun rise, this morning to travel back home for Thanksgiving, it’s time for the first of two Clint Eastwood directed films, Mystic River. What better way to celebrate being back home then watching a film about the place I just left. This is the first Eastwood directed film in the marathon since Blood Work on Day 11 (his most recent performance in the marathon was Trouble with the Curve back in mid-September but he didn’t direct that). Mystic River was nominated for six Academy Awards and won two, Best Actor and Best Supporting Actor (the first film since Ben-Hur in 1959 to do so) but it had no chance of winning being up against a personal favorite, Lord of the Rings: The Return of the King. (All that Oscar info was grabbed from, you guessed it, [Wikipedia][1].)
 
 Anyway, let’s get onto the film.
 
@@ -27,3 +27,5 @@ But there’s more to the film than just the story. Eastwood does a phenomenal j
 Mystic River is deserving of it’s Academy Award nominations and wins. First and foremost the film is a great mystery, one that is sure to entertain you and keep you guessing and wondering throughout. However, the clear lack of strong females and other minor issues (the ending is another let down) are holding this film back. Fans of Lehane’s novels and Eastwood’s directing should definitely add this to their lists of films to watch.
 
 RATING: 4 out of 5
+
+[1]: https://en.wikipedia.org/wiki/Mystic_River_(film)

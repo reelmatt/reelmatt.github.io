@@ -2,7 +2,7 @@
 layout: post
 title: School Ties
 date: '2012-11-20T12:29:07-05:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BZTJkMDFkYzgtMTFkYS00MDFhLTljNzEtNTAzN2Y2ZjBkYTE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 143
 plot: A Jewish boy goes to an elite prep school in the 1950’s and hides his religion until a jealous bigot forces it out in the open.
 rating: 4

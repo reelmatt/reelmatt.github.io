@@ -2,7 +2,7 @@
 layout: post
 title: Rise of the Guardians
 date: '2012-11-01T22:40:00-04:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzMjgwMDg1M15BMl5BanBnXkFtZTcwMTgzNTI1OA@@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 124
 plot: When the evil spirit Pitch launches an assault on Earth, the Immortal Guardians team up to protect the innocence of children all around the world.
 rating: 5
@@ -28,7 +28,7 @@ And it’s done in a very amusing and entertaining way. Quite often the whole th
 
 I mentioned in the beginning how I felt the entertainment value was diminished because I was too busy comparing Rise of the Guardians to other films. Not all the characters were perfect, Santa Claus (Alec Baldwin) was probably my least favorite character (a sword-wielding, tattooed, Russian Santa; really?) and while the other characters were very good, there was something missing from the ensemble that’s present in a film like Toy Story or even another Dreamworks film Shrek. I also felt the same way about the story: fun and lively with a deeper meaning to connect with but with something missing.
 
-Throughout the film I kept thinking about what it could be but by the time the big climactic sequence came around, I still hadn’t figured it out. And at that time I realized something; stop thinking about this as an amateur critic trying to analyze every bit about the film and start thinking about it as a kid who may be going to a theater for the first time. When I wrote my review for The Perks of Being a Wallflower, I clarified what my 5-star rating meant:
+Throughout the film I kept thinking about what it could be but by the time the big climactic sequence came around, I still hadn’t figured it out. And at that time I realized something; stop thinking about this as an amateur critic trying to analyze every bit about the film and start thinking about it as a kid who may be going to a theater for the first time. When I [wrote my review for *The Perks of Being a Wallflower*][1], I clarified what my 5-star rating meant:
 
 >>The reason I give other films 5-stars, is because the film is an experience. The film creates a place where I can escape to and get lost in for about two hours. I’m left with a feeling so powerful, that I overlook slight flaws because overall, it’s storytelling at its finest.
 
@@ -39,3 +39,5 @@ Rise of the Guardians opens in theaters on November 21.
 UPDATE: I forgot to mention this when I first published the review, but the screening was in 3D. A big question for moviegoers nowadays is whether or not it is worth the surcharge to see a film in 3D. For Rise of the Guardians, don’t bother. Overall, the 3D is done very poorly and doesn’t add anything to the story or the film experience. Most of the film doesn’t have any 3D at all (no depth or pop-out effects) and when there is, the 3D experience is more often the bad pop-out effect rather than the good illusion of depth effect (although there are a handful of well done scenes like that).
 
 RATING: 5 out of 5
+
+[1]: {% post_url 2012/2012-09/2012-09-19-the-perks-of-being-a-wallflower %}

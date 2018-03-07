@@ -2,7 +2,7 @@
 layout: post
 title: The Hangover Part II
 date: '2012-11-27T23:51:59-05:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2MTM4MzY2OV5BMl5BanBnXkFtZTcwNjQ3NzI4NA@@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 150
 plot: Two years after the bachelor party in Las Vegas, Phil, Stu, Alan, and Doug jet to Thailand for Stu’s wedding. Stu’s plan for a subdued pre-wedding brunch, however, goes seriously awry.
 rating: 3

@@ -2,7 +2,7 @@
 layout: post
 title: Blade Runner
 date: '2012-11-08T21:50:01-05:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 129
 plot: Deckard, a blade runner, has to track down and terminate 4 replicants who hijacked a ship in space and have returned to earth seeking their maker.
 rating: 3

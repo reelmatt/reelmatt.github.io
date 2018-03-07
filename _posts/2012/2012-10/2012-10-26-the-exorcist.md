@@ -2,7 +2,7 @@
 layout: post
 title: The Exorcist
 date: '2012-10-26T23:02:11-04:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BYzczOGRlMzQtNDAzMS00MjdlLTk5Y2QtNTM3MDE3NjRkYzQwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 118
 plot: When a girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.
 rating: 4

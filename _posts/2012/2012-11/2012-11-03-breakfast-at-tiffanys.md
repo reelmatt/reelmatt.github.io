@@ -2,7 +2,7 @@
 layout: post
 title: Breakfast at Tiffany's
 date: '2012-11-03T16:39:29-04:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BNGEwMTRmZTQtMDY4Ni00MTliLTk5ZmMtOWMxYWMyMTllMDg0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 126
 plot: A young New York socialite becomes interested in a young man who has moved into her apartment building.
 rating: 3
@@ -14,7 +14,7 @@ tumblr_url: http://reelmatt.com/post/34923776056/breakfast-at-tiffanys
 
 Year 1, Day 126
 
-BEFORE: Today the marathon brings us to 1961 in New York City with Breakfast at Tiffany’s. The film is based off Truman Capote’s (yes, the person who was the basis of Capote) novella of the same name.
+BEFORE: Today the marathon brings us to 1961 in New York City with Breakfast at Tiffany’s. The film is based off Truman Capote’s (yes, the person who was the basis of [*Capote*][1]) novella of the same name.
 
 AFTER: Breakfast at Tiffany’s is classified as a romantic comedy but it seems to be lacking in the comedy department. This brings up an interesting topic, one that is connected with what I mentioned yesterday: how older films differ from modern films.
 
@@ -27,3 +27,5 @@ But there is also a big drawback to this difference from modern day: it wasn’t
 I realize I’m probably being hypocritical here by saying boring, unoriginal, mass-produced junk is better and more entertaining than engaging, original, and unique films. It goes against pretty much everything I’ve ever written in this marathon. Breakfast at Tiffany’s is not a bad film; it is still very entertaining. It’s just that, for some bizarre reason that I can’t fathom, I find today’s mass-produced garbage more entertaining than an Academy Award-winning classic.
 
 RATING: 3 out of 5
+
+[1]: {% post_url 2012/2012-08/2012-08-26-capote %}

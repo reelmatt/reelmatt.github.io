@@ -2,7 +2,7 @@
 layout: post
 title: The Big Lebowski
 date: '2012-11-13T22:56:01-05:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BZTFjMjBiYzItNzU5YS00MjdiLWJkOTktNDQ3MTE3ZjY2YTY5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 135
 plot: “Dude” Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
 rating: 3

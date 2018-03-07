@@ -2,7 +2,7 @@
 layout: post
 title: Scary Movie
 date: '2012-10-21T20:03:10-04:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMGEzZjdjMGQtZmYzZC00N2I4LThiY2QtNWY5ZmQ3M2ExZmM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 113
 plot: A year after disposing the body of a man they accidentally killed, a group of dumb teenagers are stalked by a bumbling serial killer.
 rating: 3

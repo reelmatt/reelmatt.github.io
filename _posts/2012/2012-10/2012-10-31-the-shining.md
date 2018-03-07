@@ -2,7 +2,7 @@
 layout: post
 title: The Shining
 date: '2012-10-31T12:39:00-04:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 123
 plot: A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.
 rating: 5
@@ -28,9 +28,9 @@ For starters, there is a great balance between suspense and calm or (work and pl
 
 How is it that Kubrick accomplishes this masterful feat of storytelling? The answer is that every element to the film combines to create a spectacle with such attention to detail that is rarely seen. I will be focusing mainly on the production design and cinematography, but I’ll also briefly touch on the music and the acting as well.
 
-Saying the Kubrick payed attention to detail is an understatement but it can also seem a bit counterintuitive for The Shining. If you pay really close attention to the production design of the Overlook Hotel you will notice many things that simply don’t make sense. If you want a highly detailed overview on these inconsistencies, check out this video that talks about how the design of The Shining psychological manipulates the viewer (WARNING: major spoilers included in the video series. Recommended viewing for after you’ve seen The Shining; viewer discretion advised). You will soon notice that the layout, patterns, shapes, and colors are all contributing to a consistent mysterious atmosphere and a sense that something just isn’t right. Complementing the production design is the cinematography and camera work. With many wide shots, large depth of fields, and one of the first uses of the Steadicam, Kubrick uses the camera as an extension of the film, again adding to the feeling of peculiarity, and another manipulation of how the viewer sees the film.
+Saying the Kubrick payed attention to detail is an understatement but it can also seem a bit counterintuitive for The Shining. If you pay really close attention to the production design of the Overlook Hotel you will notice many things that simply don’t make sense. If you want a highly detailed overview on these inconsistencies, [check out this video][1] that talks about how the design of The Shining psychological manipulates the viewer (WARNING: major spoilers included in the video series. Recommended viewing for after you’ve seen The Shining; viewer discretion advised). You will soon notice that the layout, patterns, shapes, and colors are all contributing to a consistent mysterious atmosphere and a sense that something just isn’t right. Complementing the production design is the cinematography and camera work. With many wide shots, large depth of fields, and one of the first uses of the Steadicam, Kubrick uses the camera as an extension of the film, again adding to the feeling of peculiarity, and another manipulation of how the viewer sees the film.
 
-Very briefly, the music and acting. Both also contribute to the overall feel of the film in more obvious ways than the design and camera do. For a sense of the music, just listen/watch the opening sequence to the film and you’ll immediately get the music. All it takes is a couple of notes and you can just hear the suspense and strangeness; it’s the visuals in audio form. And then there’s the acting. Superb performances by Jack Nicholson (last seen in Anger Management) as one of the greatest villains, Jack Torrance and Danny Lloyd as the supernatural Danny Torrance. Not so much with Shelly Duvall’s performance as Wendy Torrance (the film needs a weak link somewhere).
+Very briefly, the music and acting. Both also contribute to the overall feel of the film in more obvious ways than the design and camera do. For a sense of the music, just [listen/watch the opening sequence to the film][2] and you’ll immediately get the music. All it takes is a couple of notes and you can just hear the suspense and strangeness; it’s the visuals in audio form. And then there’s the acting. Superb performances by Jack Nicholson (last seen in Anger Management) as [one of the greatest villains][3], Jack Torrance and Danny Lloyd as the supernatural Danny Torrance. Not so much with Shelly Duvall’s performance as Wendy Torrance (the film needs a weak link somewhere).
 
 Earlier in the week when I saw The Exorcist, I wrote:
 
@@ -41,3 +41,7 @@ The Shining fails this test and yet I consider it the best horror film of all-t
 Everyone, whether you are a horror fan, Kubrick fan (or not), film buff, or even just a casual moviegoer, The Shining needs to make it onto the list of movies you’ve seen.
 
 RATING: 5 out of 5
+
+[1]: https://www.youtube.com/watch?v=0sUIxXCCFWw
+[2]: https://www.youtube.com/watch?v=kiV3J_e977Q
+[3]: https://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Heroes_%26_Villains

@@ -2,7 +2,7 @@
 layout: post
 title: The Producers
 date: '2012-11-04T22:33:11-05:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4YTQzZjAtODkzZi00ZWNiLTlkNDItNzJiY2RkNjBkYTk4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 127
 plot: Producers Max Bialystock and Leo Bloom make money by producing a sure-fire flop.
 rating: 3

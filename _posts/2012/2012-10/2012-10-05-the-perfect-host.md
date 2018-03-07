@@ -2,7 +2,7 @@
 layout: post
 title: The Perfect Host
 date: '2012-10-05T21:32:21-04:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzOTIyMzEzOV5BMl5BanBnXkFtZTcwODk0NjM5NA@@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 98
 plot: A criminal on the run cons his way into the wrong dinner party where the host is anything but ordinary.
 rating: 3

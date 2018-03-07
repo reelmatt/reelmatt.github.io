@@ -2,7 +2,7 @@
 layout: post
 title: The Sandlot
 date: '2012-10-09T22:37:00-04:00'
-image: 
+image: https://images-na.ssl-images-amazon.com/images/M/MV5BODllYjM1ODItYjBmOC00MzkwLWJmM2YtMjMyZDU3MGJhNjc4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg
 film: 102
 plot: Scotty Smalls moves to a new neighborhood with his mom and stepdad, and wants to learn to play baseball.
 rating: 2
@@ -22,7 +22,7 @@ AFTER: The key piece of this film is the voiceover. It constantly pops in to pro
 
 Now this isn’t the only part of the film. The Beast is another major component along with the social issues Scotty Smalls (Tom Guiry) deals with throughout the movie. But I could not get past the problems with the voiceover. It’s actually done by the writer and director, David M. Evans, and with all due respect, he does not have the voice to narrate. It doesn’t have to be a Morgan Freeman voice but it should be at least a little less amateurish and more sonorous.
 
-Something I find very interesting is critic Roger Ebert’s review where he says:
+Something I find very interesting is critic [Roger Ebert’s review][1] where he says:
 
 >>“If you have ever been lucky enough to see A Christmas Story, you will understand what I mean when I say The Sandlot is a summertime version of the same vision.”
 
@@ -31,3 +31,5 @@ The reason I find it very interesting is I don’t like A Christmas Story for 
 The best conclusion I see is that this is a personal preference film. If you enjoy the style of A Christmas Story, you’ll probably like The Sandlot. However, if you are in the minority (based on personal experience) and don’t like the film TBS plays for 24-hours every Christmas, The Sandlot is not for you.
 
 RATING: 2 out of 5
+
+[1]: https://www.rogerebert.com/reviews/the-sandlot-1993
