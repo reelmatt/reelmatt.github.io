@@ -29,7 +29,7 @@ Still, despite a meandering plot *The Infiltrator* does deliver a minor adrenali
 Overall, *The Infiltrator* seems like a good film in the moment but one that will probably be mostly forgettable. It does however, bump up my interest in finally getting around to watching [*Narcos*][3] and learn more about the Pablo Escobar/Medellín Cartel story.
 
 #### THE RATING
-3 out of 5
+3 out of 5 
 
 [1]: https://www.netflix.com/title/80010655
 [2]: https://www.youtube.com/watch?v=wMEq1mGpP5A
