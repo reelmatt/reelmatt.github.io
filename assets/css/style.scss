@@ -21,3 +21,21 @@ margin-bottom: 50px;
   clear: both;
   margin: 20px;
 }
+
+.pagination {
+  display: flex;
+  clear: both;
+}
+
+.sectionmore {
+  margin-bottom: 10px;
+  display: inline-block;
+  clear: both;
+  width: 100%;
+  text-align: right;
+  font-size: 13px
+}
+
+.previous {
+  text-align: left;
+}
