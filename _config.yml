@@ -25,6 +25,7 @@ twitter_username: reelmatt
 github_username:  reelmatt
 
 # Build settings
+github: [metadata]
 markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
