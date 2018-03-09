@@ -13,6 +13,8 @@ The object of this post, and future posts like this, is to gather all these top 
 
 I’m planning on doing this every three months but we’ll see how that goes. For now, a trip down memory lane.
 
+---
+
 ### [*Scent of a Woman*]({% post_url 2012/2012-07/2012-07-04-scent-of-a-woman %})
 A classic Pacino film that is a must see. The closing speech by Pacino is one of the best monologues in film and ends the film on a high note.
 
