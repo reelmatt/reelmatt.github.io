@@ -1,0 +1,60 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+
+---
+
+<!-- Testing pagination code here-->
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+
+
+<div class='post'>
+    {% if post.image %}
+    <img src={{post.image}} alt='poster' width='200' class='poster'>
+    {% endif %}
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p><small><strong>{{ post.date | date: "%B %e, %Y" }}</strong></small></p>
+    <p>{{post.plot}}</p>
+    {% if post.film %}<p><small><strong>Film #{{post.film}}</strong></small></p>{% endif %}
+    {% if post.rating %}<p><small><strong>Rating: {{post.rating}} out of 5</strong></small></p>{% endif %}
+</div>
+<!--alternate formatting, full post
+<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+<p class="author">
+    <span class="date">{{ post.date }}</span>
+</p>
+<div class="content">
+    {{ post.content }}
+</div>-->
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="sectionmore previous">< Previous</a>
+    {% endif %}
+<!--    <span class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>-->
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="sectionmore">Next ></a>
+    {% endif %}
+</div>
+
+
+
+<!-- Current working display
+{% for post in site.posts limit:10 %}
+<div class='post'>
+    {% if post.image %}
+    <img src={{post.image}} alt='poster' width='200' class='poster'>
+{% endif %}
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p><small><strong>{{ post.date | date: "%B %e, %Y" }}</strong></small></p>
+    <p>{{post.plot}}</p>
+    {% if post.film %}<p><small><strong>Film #{{post.film}}</strong></small></p>{% endif %}
+    {% if post.rating %}<p><small><strong>Rating: {{post.rating}} out of 5</strong></small></p>{% endif %}
+</div>
+{% endfor %}
+  -->
