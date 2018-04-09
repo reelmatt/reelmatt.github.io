@@ -9,6 +9,7 @@ rating: 2
 tags:
 - movie marathon
 - the big kahuna
+- play adaptaion
 tumblr_url: http://reelmatt.com/post/27423817989/the-big-kahuna
 ---
 

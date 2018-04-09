@@ -9,6 +9,7 @@ rating: 2
 tags:
 - Movie Marathon
 - glengarry glen ross
+- play adaptation
 tumblr_url: http://reelmatt.com/post/30945373645/glengarry-glen-ross
 ---
 
