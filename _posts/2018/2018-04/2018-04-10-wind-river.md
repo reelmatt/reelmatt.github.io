@@ -30,6 +30,6 @@ Even with this caveat, I cannot recommend watching *Wind River* highly enough. A
 #### THE RATING
 4 out of 5
 
-[1]: {% post_url 2017/2017-02/2017-02-23-hell-or-high-water.md %}
+[1]: {% post_url 2017/2017-02/2017-02-23-hell-or-high-water %}
 [2]: {% post_url 2016/2016-02/2016-02-22-sicario %}
 [3]: https://en.wikipedia.org/wiki/The_Usual_Suspects
