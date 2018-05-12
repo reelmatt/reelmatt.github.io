@@ -41,3 +41,6 @@ welcome () {
             ;;
     esac
 }
+
+info "Detected location: local"
+welcome
