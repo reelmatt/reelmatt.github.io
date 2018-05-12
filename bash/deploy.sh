@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Helper output functions
 line () {
     info "--------------------------------------"
