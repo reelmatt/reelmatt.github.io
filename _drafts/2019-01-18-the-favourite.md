@@ -6,11 +6,17 @@ film: 624
 plot: In early 18th century England, a frail Queen Anne occupies the throne and her close friend, Lady Sarah, governs the country in her stead. When a new servant, Abigail, arrives, her charm endears her to Sarah.
 rating: 3
 tags:
-- 
-- 
-- 
-- 
-- 
+- yorgos lanthimos
+- olivia colman
+- emma stone
+- rachel weisz
+- nicholas hoult
+- joe alwyn
+- mark gatis
+- jenny rainsford
+- james smith
+- tim ingall
+- liam fleming
 ---
 
 #### THE REVIEW

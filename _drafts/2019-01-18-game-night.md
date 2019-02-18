@@ -6,11 +6,21 @@ film: 625
 plot: A group of friends who meet regularly for game nights find themselves entangled in a real-life mystery when the shady brother of one of them is seemingly kidnapped by dangerous gangsters.
 rating: 4
 tags:
-- 
-- 
-- 
-- 
-- 
+- john francis daley
+- jonathan m goldstein
+- jason bateman
+- rachel mcadams
+- billy magnussen
+- sharon horgan
+- lamorne morris
+- kylie bunbury
+- jesse plemons
+- michael c hall
+- kyle chandler
+- danny huston
+- chelsea peretti
+- camille chen
+- jeffrey wright
 ---
 
 #### THE REVIEW

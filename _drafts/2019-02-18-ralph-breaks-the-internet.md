@@ -6,18 +6,11 @@ film: 626
 plot: A social satire in which a man realizes he would have a better life if he were to shrink himself to five inches tall, allowing him to live in wealth and splendor.
 rating: 3
 tags:
-- alexander payne
-- matt damon
-- christoph waltz
-- hong chau
-- kristen wiig
-- rolf lassgard
-- udo kier
-- jason sudeikis
-- neil patrick harris
-- laura dern
-- james van der beek
-- margo martindale
+- 
+- 
+- 
+- 
+- 
 ---
 
 #### THE REVIEW
