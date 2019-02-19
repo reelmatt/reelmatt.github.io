@@ -10,6 +10,9 @@ tags:
 - 91st academy awards
 - 
 ---
+Ninety-first Academy Awards, and the seventh I'm around making predictions for it. With the 86th Academy Awards being the outlier, where I [correctly predicted 22 out of 24 nominees][1], all other years have netted me either 16 or 17 correct predictions out of 24, good for a D+ or a C- on a letter scale &mdash; not good! And with a lot of uncertainly this year from a mixed bag of results in the Guild Awards, the path for the "Most Deserving" nominations is not clear.
+
+Thanks to my new AMC A-List subscription, I managed to catch all the Best Picture nominees except for *Black Panther* (which I saw last March when it was released), and *BlacKkKlansman* and *Bohemian Rhapsody*. Oh, and *Roma* which I missed in the *very* limited-release in theaters and had to watch on Netflix. The further down the ballot you go though, the less coverage I have on the nominees &mdash; the acting categories specifically. Save for nominees who also have a *Best Picture* nominee, I haven't seen the films, so my "Most Likely" picks are with limited information.
 
 This is now the sixth year I'm making predictions for the Academy Awards, and unlike years past I'm getting these out more than just a few hours before the ceremony starts! 2018 was an off year for me in terms of getting to the theater and see a lot of the nominees. My goal every year is to see **all** the Best Picture nominees, a feat I was able to accomplish three times (for the 85th, 87th, and 88th Academy Awards — and only one or two away the other years). Unfortunately, I only saw four of the nine nominees this year (I'm hoping to get to the theater this weekend to see one or two more, and will update this post if I do, but my predictions are locked).
 
@@ -17,6 +20,8 @@ Of all the years to not see most of the nominees, I chose a year when there were
 
 Every year around Oscar time I always get back into the swing of things, watching and reviewing a lot of movies. It is my way of prepping for the Oscars and always like a reset button for me. It wasn't until I saw *Three Billboards* and *The Post* last weekend did I realize that woah, the Oscars are in a week! They really snuck up on me this year which is why I'm scrambling a bit. I make a promise every year to use this as an opportunity to really re-commit myself to this blog and these reviews, and hopefully I keep that commitment more than I have in years past. It'll never get to the level I was in Year 1 where I met my goal of watching 365 films in 365 days, but hopefully it is more than the meager 15 films I reviewed in 2017.
 
+
+[1]: {% post_url oscars/2014-03-02-academy-awards-predictions-2014 %}
 ---
 
 ## BEST PICTURE
@@ -29,17 +34,19 @@ Film |
 *BlacKkKlansman*|
 *Bohemian Rhapsody*|
 [*The Favourite*][2]|
-*Green Book*|
-*Roma*|
-[*A Star Is Born*][3]|
-[*Vice*][4]|
+[*Green Book*][3]|
+[*Roma*][4]|
+[*A Star Is Born*][5]|
+[*Vice*][6]|
 
-[1]: https://letterboxd.com/reelmatt/films/diary/for/2017/07/30/
-[2]: {% post_url 2018/2018-02/2018-02-27-00583-the-post %}
-[3]: {% post_url 2018/2018-02/2018-02-19-00579-the-shape-of-water %}
-[4]: {% post_url 2018/2018-02/2018-02-26-00582-three-billboards %}
+[1]: {% post_url 2019/2018-03/2018-03-11-black-panther %}
+[2]: {% post_url 2019/2019-01/2019-01-18-the-favourite %}
+[3]: {% post_url 2019/2019-02/2019-02-01-green-book %}
+[4]: {% post_url 2019/2019-02/2019-02-12-roma %}
+[5]: {% post_url 2019/2019-01/2019-01-13-a-star-is-born %}
+[6]: {% post_url 2019/2019-01/2019-01-12-vice %}
 
-Most Deserving: **
+Most Deserving: *Roma*
 
 Most Likely: **
 
@@ -57,7 +64,7 @@ Spike Lee            | *BlacKkKlansman*
 Adam McKay           | *Vice*
 Paweł Pawlikowski    | *Cold War*
 
-Most Deserving: 
+Most Deserving: Alfonso Cuarón
 
 Most Likely: 
 
@@ -73,7 +80,7 @@ Willem Dafoe      | *At Eternity's Gate*
 Rami Malek        | *Bohemian Rhapsody*
 Viggo Mortensen   | *Green Book*
 
-Most Deserving: 
+Most Deserving: Bradley Cooper
 
 Most Likely: 
 
@@ -89,7 +96,7 @@ Olivia Colman     | *The Favourite*
 Lady Gaga         | *A Star Is Born*
 Melissa McCarthy  | *Can You Ever Forgive Me?*
 
-Most Deserving: 
+Most Deserving: Olivia Colman
 
 Most Likely: 
 
@@ -105,7 +112,7 @@ Sam Elliott         | *A Star Is Born*
 Richard E. Grant    | *Can You Ever Forgive Me?*
 Sam Rockwell        | *Vice*
 
-Most Deserving: 
+Most Deserving: Mahershala Ali
 
 Most Likely: 
 
@@ -121,7 +128,7 @@ Regina King     | *If Beale Street Could Talk*
 Emma Stone      | *The Favourite*
 Rachel Weisz    | *The Favourite*
 
-Most Deserving: 
+Most Deserving: Emma Stone
 
 Most Likely: 
 
@@ -137,7 +144,7 @@ Film               | Writer(s)
 *Roma*             | Alfonso Cuarón
 *Vice*             | Adam McKay
 
-Most Deserving: **
+Most Deserving: *Green Book*
 
 Most Likely: **
 
@@ -155,7 +162,7 @@ Film                           | Writer(s)
 *If Beale Street Could Talk*   | Barry Jenkins, based on the novel by James Baldwin
 *A Star Is Born*               | Eric Roth and Bradley Cooper & Will Fetters
 
-Most Deserving: **
+Most Deserving: *A Star Is Born*
 
 Most Likely: **
 
@@ -173,7 +180,7 @@ Film |
 *Ralph Breaks the Internet*|
 *Spider-Man: Into the Spider-Verse*|
 
-Most Deserving: N/A
+Most Deserving: *Spider-Man: Into the Spider-Verse*
 
 Most Likely: *Spider-Man: Into the Spider-Verse*
 
@@ -189,7 +196,7 @@ Film                | Country
 *Roma*              | Mexico
 *Shoplifters*       | Japan
 
-Most Deserving: N/A
+Most Deserving: *Roma*
 
 Most Likely: **
 
@@ -205,7 +212,7 @@ Film |
 *Of Fathers and Sons*|
 *RBG*|
 
-Most Deserving: N/A
+Most Deserving: *Minding the Gap*
 
 Most Likely: **
 
@@ -237,7 +244,7 @@ Film |
 *Mary Poppins Returns*|
 *Mary Queen of Scots*|
 
-Most Deserving: **
+Most Deserving: *The Favourite*
 
 Most Likely: **
 
@@ -253,7 +260,7 @@ Song                                       | Film                   | Artist
 “Shallow”                                  | *A Star Is Born*       | Lady Gaga, Mark Ronson, Anthony Rossomando, and Andrew Wyatt
 “When a Cowboy Trades His Spurs for Wings” | *The Ballad of Buster Scruggs* | David Rawlings and Gillian Welch
 
-Most Deserving: N/A
+Most Deserving: "Shallow"
 
 Most Likely: “This Is Me"
 
@@ -319,7 +326,7 @@ Film |
 *Green Book*|
 *Vice*|
 
-Most Deserving: **
+Most Deserving: *The Favourite*
 
 Most Likely: **
 
@@ -337,7 +344,7 @@ Film |
 *Roma*|
 *A Star Is Born*|
 
-Most Deserving: **
+Most Deserving: *Roma*
 
 Most Likely: **
 
@@ -353,7 +360,7 @@ Film |
 *A Quiet Place*|
 *Roma*|
 
-Most Deserving: **
+Most Deserving: *A Quiet Place*
 
 Most Likely: **
 
@@ -369,7 +376,7 @@ Film |
 *Roma*|
 *A Star Is Born*|
 
-Most Deserving: **
+Most Deserving: *First Man*
 
 Most Likely: **
 
@@ -385,7 +392,7 @@ Film |
 *Ready Player One*|
 *Solo: A Star Wars Story*|
 
-Most Deserving: **
+Most Deserving: *First Man*
 
 Most Likely: **
 
