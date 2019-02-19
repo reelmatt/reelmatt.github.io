@@ -30,4 +30,4 @@ But given that the film seemed designed to fulfill a checklist of required story
 #### THE RATING
 3 out of 5
 
-[1]: {% post_url: 2016/2016-12/2016-12-23-rogue-one-a-star-wars-story %}
+[1]: {% post_url 2016/2016-12/2016-12-23-rogue-one-a-star-wars-story %}
