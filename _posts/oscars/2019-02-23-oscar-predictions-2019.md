@@ -29,6 +29,8 @@ Thanks to my new AMC A-List subscription, I managed to catch all the Best Pictur
 
 I've come to learn my yearly prediction/public wishing that *this* will be the year I restart this blog in vain aren't completely accurate (almost not at all). So this year, I'm trying for a more realistic wish/hope that I pay more attention and do a better job at watching the acting nominees for next year's Oscars. I got myself to see more of the Best Picture nominees each year, now I want to see more of the down-ballot nominees.
 
+Actual winners listed in **bold**. Final tally: 17/24 correct.
+
 [1]: {% post_url oscars/2014-03-02-academy-awards-predictions-2014 %}
 
 ---
@@ -43,7 +45,7 @@ Film |
 *BlacKkKlansman*|
 *Bohemian Rhapsody*|
 [*The Favourite*][3]|
-[*Green Book*][4]|
+**[*Green Book*][4]**|
 [*Roma*][5]|
 [*A Star Is Born*][6]|
 [*Vice*][7]|
@@ -69,7 +71,7 @@ As I mentioned in my recent reviews, *Roma* is far and away my number one choice
 
 Director             | Film
 ---------------------|-------------
-Alfonso Cuarón       | *Roma*
+**Alfonso Cuarón**   | *Roma*
 Yorgos Lanthimos     | *The Favourite*
 Spike Lee            | *BlacKkKlansman*
 Adam McKay           | *Vice*
@@ -88,7 +90,7 @@ Actor             | Film
 Christian Bale    | *Vice*
 Bradley Cooper    | *A Star Is Born*
 Willem Dafoe      | *At Eternity's Gate*
-Rami Malek        | *Bohemian Rhapsody*
+**Rami Malek**    | *Bohemian Rhapsody*
 Viggo Mortensen   | *Green Book*
 
 Most Deserving: Bradley Cooper
@@ -103,7 +105,7 @@ Actress           | Film
 ------------------|------------------
 Yalitza Aparicio  | *Roma*
 Glenn Close       | *The Wife*
-Olivia Colman     | *The Favourite*
+**Olivia Colman** | *The Favourite*
 Lady Gaga         | *A Star Is Born*
 Melissa McCarthy  | *Can You Ever Forgive Me?*
 
@@ -117,7 +119,7 @@ Most Likely: Glenn Close
 
 Actor               | Film
 --------------------|----------------
-Mahershala Ali      | *Green Book*
+**Mahershala Ali**  | *Green Book*
 Adam Driver         | *BlacKkKlansman*
 Sam Elliott         | *A Star Is Born*
 Richard E. Grant    | *Can You Ever Forgive Me?*
@@ -135,7 +137,7 @@ Actress         | Movie
 ----------------|--------------
 Amy Adams       | *Vice*
 Marina de Tavira| *Roma*
-Regina King     | *If Beale Street Could Talk*
+**Regina King** | *If Beale Street Could Talk*
 Emma Stone      | *The Favourite*
 Rachel Weisz    | *The Favourite*
 
@@ -151,7 +153,7 @@ Film               | Writer(s)
 -------------------|-------------------
 *The Favourite*    | Deborah Davis and Tony McNamara
 *First Reformed*   | Paul Schrader
-*Green Book*       | Nick Vallelonga, Brian Currie, and Peter Farrelly
+***Green Book***   | Nick Vallelonga, Brian Currie, and Peter Farrelly
 *Roma*             | Alfonso Cuarón
 *Vice*             | Adam McKay
 
@@ -166,7 +168,7 @@ Most Likely: *The Favourite*
 Film                           | Writer(s)
 -------------------------------|------------------------
 *The Ballad of Buster Scruggs* | Joel Coen & Ethan Coen, based on their short stories
-*BlacKkKlansman*               | Charlie Wachtel & David Rabinowitz and Kevin Willmott & Spike Lee, based on the memoir Black Klansman by Ron Stallworth
+***BlacKkKlansman***           | Charlie Wachtel & David Rabinowitz and Kevin Willmott & Spike Lee, based on the memoir Black Klansman by Ron Stallworth
 *Can You Ever Forgive Me?*     | Nicole Holofcener and Jeff Whitty, based on the memoir by Lee Israel
 *If Beale Street Could Talk*   | Barry Jenkins, based on the novel by James Baldwin
 *A Star Is Born*               | Eric Roth and Bradley Cooper & Will Fetters
@@ -185,7 +187,7 @@ Film |
 *Isle of Dogs*|
 *Mirai*|
 [*Ralph Breaks the Internet*][9]|
-[*Spider-Man: Into the Spider-Verse*][10]|
+**[*Spider-Man: Into the Spider-Verse*][10]**|
 
 Most Deserving: *Spider-Man: Into the Spider-Verse*
 
@@ -204,7 +206,7 @@ Film                | Country
 *Capernaum*         | Lebanon
 *Cold War*          | Poland
 *Never Look Away*   | Germany
-*Roma*              | Mexico
+***Roma***          | Mexico
 *Shoplifters*       | Japan
 
 Most Deserving: *Roma*
@@ -217,7 +219,7 @@ Most Likely: *Roma*
 
 Film |
 -----|
-*Free Solo*|
+***Free Solo***|
 *Hale County This Morning, This Evening*|
 [*Minding the Gap*][11]|
 *Of Fathers and Sons*|
@@ -239,7 +241,7 @@ Film |
 "End Game"|
 "Lifeboat"|
 "A Night at The Garden"|
-"Period. End of Sentence.”|
+**"Period. End of Sentence.”**|
 
 Most Deserving: N/A
 
@@ -252,7 +254,7 @@ Most Likely: "Period. End of Sentence."
 Film |
 -----|
 *The Ballad of Buster Scruggs*|
-*Black Panther*|
+***Black Panther***|
 *The Favourite*|
 *Mary Poppins Returns*|
 *Mary Queen of Scots*|
@@ -270,7 +272,7 @@ Song                                       | Film                   | Artist
 “All the Stars”                            | *Black Panther*        | Mark Spears, Kendrick Lamar Duckworth and Anthony Tiffith
 “I'll Fight”                               | *RBG*                  | Diane Warren
 “The Place Where Lost Things Go”           | *Mary Poppins Returns* | Marc Shaiman and Scott Wittman
-“Shallow”                                  | *A Star Is Born*       | Lady Gaga, Mark Ronson, Anthony Rossomando, and Andrew Wyatt
+**“Shallow”**                              | *A Star Is Born*       | Lady Gaga, Mark Ronson, Anthony Rossomando, and Andrew Wyatt
 “When a Cowboy Trades His Spurs for Wings” | *The Ballad of Buster Scruggs* | David Rawlings and Gillian Welch
 
 Most Deserving: "Shallow"
@@ -283,7 +285,7 @@ Most Likely: "Shallow"
 
 Film                         |Composer
 -----------------------------|--------
-*Black Panther*              | Ludwig Göransson
+***Black Panther***          | Ludwig Göransson
 *BlacKkKlansman*             | Terence Blanchard
 *If Beale Street Could Talk* | Nicholas Britell
 *Isle of Dogs*               | Alexandre Desplat
@@ -305,7 +307,7 @@ Film |
 -----|
 *Border*|
 *Mary Queen of Scots*|
-*Vice*|
+***Vice***|
 
 Most Deserving: N/A
 
@@ -317,7 +319,7 @@ Most Likely: *Vice*
 
 Film |
 -----|
-*Black Panther*|
+***Black Panther***|
 *The Favourite*|
 [*First Man*][12]|
 *Mary Poppins Returns*|
@@ -336,7 +338,7 @@ Most Likely: *Black Panther*
 Film |
 -----|
 *BlacKkKlansman*|
-*Bohemian Rhapsody*|
+***Bohemian Rhapsody***|
 *The Favourite*|
 *Green Book*|
 *Vice*|
@@ -358,7 +360,7 @@ Film |
 *Cold War*|
 *The Favourite*|
 *Never Look Away*|
-*Roma*|
+***Roma***|
 *A Star Is Born*|
 
 Most Deserving: *Roma*
@@ -372,7 +374,7 @@ Most Likely: *Roma*
 Film |
 -----|
 *Black Panther*|
-*Bohemian Rhapsody*|
+***Bohemian Rhapsody***|
 *First Man*|
 [*A Quiet Place*][13]|
 *Roma*|
@@ -390,7 +392,7 @@ Most Likely: *First Man*
 Film |
 -----|
 *Black Panther*|
-*Bohemian Rhapsody*|
+***Bohemian Rhapsody***|
 *First Man*|
 *Roma*|
 *A Star Is Born*|
@@ -407,7 +409,7 @@ Film |
 -----|
 [*Avengers: Infinity War*][14]|
 *Christopher Robbin*|
-*First Man*|
+***First Man***|
 *Ready Player One*|
 [*Solo: A Star Wars Story*][15]|
 
@@ -425,7 +427,7 @@ Most Likely: *Avengers: Infinity War*
 Film |
 -----|
 "Animal Behaviour"|
-"Bao"|
+**"Bao"**|
 "Late Afternoon"|
 "One Small Step"|
 "Weekends"|
@@ -444,7 +446,7 @@ Film |
 "Fauve"|
 "Marguerite"|
 "Mother"|
-"Skin"|
+**"Skin"**|
 
 Most Deserving: N/A
 
