@@ -31,6 +31,8 @@ Okay, I'm keeping this one short. By now you know the drill here; this is the ei
 
 Anywho, I am not bothering with the header images this year or linking to each individual film &mdash; you can just [head over to my Letterboxd diary][1] and see all my ratings from the past year; I have seen a lot of movies!
 
+Actual winners listed in **bold**. Final tally 18/24
+
 [1]: https://letterboxd.com/reelmatt/films/diary/
 
 ---
@@ -47,7 +49,7 @@ Film |
 *Marriage Story*|
 *1917*|
 *Once Upon a Time in Hollywood*|
-*Parasite*|
+***Parasite***|
 
 Most Deserving: *Parasite*
 
@@ -69,7 +71,7 @@ Martin Scorsese   | *The Irishman*
 Todd Phillips     | *Joker*
 Sam Mendes        | *1917*
 Quentin Tarantino | *Once Upon a Time in Hollywood*
-Bong Joon-ho      | *Parasite*
+**Bong Joon-ho**  | *Parasite*
 
 Most Deserving: Bong Joon-ho
 
@@ -84,7 +86,7 @@ Actor             | Film
 Antonio Banderas  | *Pain and Glory*
 Leonardo DiCaprio | *Once Upon a Time in Hollywood*
 Adam Driver       | *Marriage Story*
-Joaquin Phoenix   | *Joker*
+**Joaquin Phoenix** | *Joker*
 Jonathan Pryce    | *The Two Popes*
 
 Most Deserving: Adam Driver
@@ -103,7 +105,7 @@ Cynthia Erivo      | *Harriet*
 Scarlett Johansson | *Marriage Story*
 Saoirse Ronan      | *Little Women*
 Charlize Theron    | *Bombshell*
-Renée Zellweger    | *Judy*
+**Renée Zellweger**    | *Judy*
 
 Most Deserving: Saoirse Ronan
 
@@ -119,7 +121,7 @@ Tom Hanks       | *A Beautiful Day in the Neighborhood*
 Anthony Hopkins | *The Two Popes*
 Al Pacino       | *The Irishman*
 Joe Pesci       | *The Irishman*
-Brad Pitt       | *Once Upon a Time in Hollywood*
+**Brad Pitt**   | *Once Upon a Time in Hollywood*
 
 Most Deserving: Brad Pitt
 
@@ -132,7 +134,7 @@ Most Likely: Brad Pitt
 Actress            | Movie 
 -------------------|--------------
 Kathy Bates        | *Richard Jewell*
-Laura Dern         | *Marriage Story*
+**Laura Dern**     | *Marriage Story*
 Scarlett Johansson | *Jojo Rabbit*
 Florence Pugh      | *Little Women*
 Margot Robbit      | *Bombshell*
@@ -151,7 +153,7 @@ Film                            | Writer(s)
 *Marriage Story*                | Noah Baumbach
 *1917*                          | Sam Mendes and Krysty Wilson-Cairns
 *Once Upon a Time in Hollywood* | Quentin Tarantino
-*Parasite*                      | Bong Joon-ho and Han Jin-won
+***Parasite***                  | Bong Joon-ho and Han Jin-won
 
 Most Deserving: *Knives Out*
 
@@ -164,7 +166,7 @@ Most Likely: *Parasite*
 Film            | Writer(s)
 ----------------|------------------------
 *The Irishman*  | Steven Zaillian based on the book *I Heard You Paint Houses* by Charles Brandt
-*Jojo Rabbit*   | Taika Waititi based on the novel *Caging Skies* by Christine Leunens
+***Jojo Rabbit***   | Taika Waititi based on the novel *Caging Skies* by Christine Leunens
 *Joker*         | Todd Phillips and Scott Silver based on characters created by Bill Finger, Bob Kane, and Jerry Robinson
 *Little Women*  | Greta Gerwig based on the novel by Louisa May Alcott
 *The Two Popes* | Anthony McCarten based on his play *The Pope*
@@ -183,7 +185,7 @@ Film |
 *I Lost My Body*|
 *Klaus*|
 *Missing Link*|
-*Toy Story 4*|
+***Toy Story 4***|
 
 
 Most Deserving: N/A
@@ -200,7 +202,7 @@ Film             | Country
 *Honeyland*      | North Macedonia
 *Les Misérables* | France
 *Pain and Glory* | Spain
-*Parasite*       | South Korea
+***Parasite***   | South Korea
 
 Most Deserving: N/A
 
@@ -212,7 +214,7 @@ Most Likely: *Parasite*
 
 Film |
 -----|
-*American Factory*|
+***American Factory***|
 *The Cave*|
 *The Edge of Democracy*|
 *For Sama*|
@@ -229,7 +231,7 @@ Most Likely: *Honeyland*
 Film |
 -----|
 "In the Absence"|
-"Learning to Skateboard in a Warzone (If You're a Girl)"|
+**"Learning to Skateboard in a Warzone (If You're a Girl)"**|
 "Life Overtakes Me"|
 "St. Louis Superman"|
 "Walk Run Cha-Chai"|
@@ -246,7 +248,7 @@ Film |
 -----|
 "Brotherhood"|
 "Mefta Football Club"|
-"The Neighbors' Window"|
+**"The Neighbors' Window"**|
 "Saria"|
 "A Sister"|
 
@@ -262,7 +264,7 @@ Most Likely: "The Neighbors' Window"
 Film |
 -----|
 "Dcera (Daughter)"|
-"Hair Love"|
+**"Hair Love"**|
 "Kitbull"|
 "Memorable"|
 "Sister"|
@@ -277,7 +279,7 @@ Most Likely: "Hair Love"
 
 Film                               |Composer
 -----------------------------------|--------
-*Joker*                            | Hildur Guðnadóttir
+***Joker***                        | Hildur Guðnadóttir
 *Little Women*                     | Alexandre Desplat
 *Marriage Story*                   | Randy Newman
 *1917*                             | Thomas Newman
@@ -294,7 +296,7 @@ Most Likely: *Joker*
 Song                                  | Film           | Artist
 --------------------------------------|----------------|-------------------
 "I Can't Let You Throw Yourself Away" | *Toy Story 4*  | Music and Lyrics by Randy Newman
-"(I'm Gonna) Love Me Again"           | *Rocketman*    | Music by Elton John; Lyrics by Bernie Taupin
+**"(I'm Gonna) Love Me Again"**       | *Rocketman*    | Music by Elton John; Lyrics by Bernie Taupin
 "I'm Standing with You"               | *Breakthrough* | Music and Lyrics by Diane Warren
 "Into the Unknown"                    | *Frozen II*    | Music and Lyrics by Kristen Anderson-Lopez and Robert Lopez
 "Stand Up"                            | *Harriet*      | Music and Lyrics by Joshuah Brian Campbell and Cynthia Erivo
@@ -309,7 +311,7 @@ Most Likely: "(I'm Gonna) Love Me Again"
 
 Film |
 -----|
-*Ford v Ferrari*|
+***Ford v Ferrari***|
 *Joker*|
 *1917*|
 *Once Upon a Time in Hollywood*|
@@ -328,7 +330,7 @@ Film |
 *Ad Astra*|
 *Ford v Ferrari*|
 *Joker*|
-*1917*|
+***1917***|
 *Once Upon a Time in Hollywood*|
 
 Most Deserving: *1917*
@@ -345,7 +347,7 @@ Film |
 *The Irishman*|
 *Jojo Rabbit*|
 *1917*|
-*Once Upon a Time in Hollywood*|
+***Once Upon a Time in Hollywood***|
 *Parasite*|
 
 Most Deserving: *Once Upon a Time in Hollywood*
@@ -361,7 +363,7 @@ Film |
 *The Irishman*|
 *Joker*|
 *The Lighthouse*|
-*1917*|
+***1917***|
 *Once Upon a Time in Hollywood*|
 
 Most Deserving: *1917*
@@ -374,7 +376,7 @@ Most Likely: *1917*
 
 Film |
 -----|
-*Bombshell*|
+***Bombshell***|
 *Joker*|
 *Judy*|
 *Maleficent: Mistress of Evil*|
@@ -394,7 +396,7 @@ Film |
 *The Irishman*|
 *Jojo Rabbit*|
 *Joker*|
-*Little Women*|
+***Little Women***|
 *Once Upon a Time in Hollywood*|
 
 Most Deserving: *Little Women*
@@ -407,7 +409,7 @@ Most Likely: *Little Women*
 
 Film |
 -----|
-*Ford v Ferrari*|
+***Ford v Ferrari***|
 *The Irishman*|
 *Jojo Rabbit*|
 *Joker*|
@@ -426,7 +428,7 @@ Film |
 *Avengers: Endgame*|
 *The Irishman*|
 *The Lion King*|
-*1917*|
+***1917***|
 *Star Wars: The Rise of Skywalker*|
 
 Most Deserving: *The Lion King*
