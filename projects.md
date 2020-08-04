@@ -15,7 +15,7 @@ for Comparative Effectiveness Research](https://catalyst.harvard.edu/services/ce
 
 Along the way, I developed a passion for programming, writing small tools to help simplify
 repetitive tasks in my workflow. I started classes at the Harvard Extension School to further
-my knowledge and expertise and applied for the Masters degree program which I completed in 2020. 
+my knowledge and expertise and applied for the Masters degree program, which I completed in 2020. 
 
 Below is a brief summary of some of the courses and projects I worked on during my Masters
 degree. Some links are to private GitHub repositories; if you would like access to them,
@@ -47,7 +47,7 @@ All other work, including storage and passing of Node execution data, is handled
 PyWorkflow.
 * Assisted the team with Docker containerization.
 * Assisted the team with the CLI interface to allow for batch execution of saved workflows.
-* Setup a CI pipeline to run automated unit tests with GitHub Actions.
+* Set up a CI pipeline to run automated unit tests with GitHub Actions.
   
 ## [Harvard Catalyst Tools](https://github.com/Harvard-Catalyst-PGE/hcat-tools) (Private repo)
 The goal of these tools is to help simplify common tasks for myself and colleagues at my
@@ -55,13 +55,13 @@ day job. The main tools that are part of this repository are:
 * Runtime fetcher: looks up a video's runtime using the Vimeo oEmbed API
 * HTML generator: creates HTML pages for each video, populating a template with a video's
 specific information.
-* Budget reconciler: Uses the Airtable standard API to pull in coures expenses from many
+* Budget reconciler: Uses the Airtable standard API to pull in course expenses from many
 Airtable bases, to populate a central Online Team budget document. This process is
 automated using the Heroku Scheduler so the central budget is always kept up-to-date.
 
 I started writing these tools early on in my Masters degree and have evolved them as I have
 learned new skills, techniques, and languages. Some started as simple shell scripts, then
-deployed on a Digital Ocean server, and now features a semi-CI/CD pipeline to deploy on
+deployed on a Digital Ocean server, and now feature a semi-CI/CD pipeline to deploy on
 Heroku.
 
 As my main job is to film, edit, and produce our online courses, some of the code and
@@ -101,7 +101,7 @@ single-page application.
 *Languages used: C*
 
 Perhaps the greatest skill I learned in this course was the benefit for writing small,
-modular code that adheres to the UNIX ethos of "do one thing, and do it well". The
+modular code that adheres to the UNIX ethos of "do one thing, and do it well." The
 assignments for this course covered a lot of ground and are not as easily grouped into
 bullets as other classes. A few highlights are:
 * `tt2ht3.c` &mdash; program to convert plain-text tables into an HTML-formatted table
@@ -116,7 +116,7 @@ This class was the "sequel" to the Intro to C course and was one of my favorite 
 the Extension School. Many of the assignments were to recreate parts of existing 
 command-line tools, and in the process of doing so, I learned a lot about the underlying
 UNIX system architecture. For the later assignments, culminating with the web server, I
-learned about internet protocols
+learned about internet protocols.
 
 * `alastlog.c` &mdash; displays a list of last logins
 * `more03.c` &mdash; perform a subset of features of the built-in `more`
@@ -140,15 +140,14 @@ This course expanded upon my web application skills from Dynamic Web Application
 of PHP/Laravel, this course focused on Node.js/Express and also added Angular to create a
 more dynamic front-end experience.
 
-* Simple file-server using Node.js
-* Film Logger
-    * Uses the OMDB API for looking up film information
-    * Assignment 3 began the Film Logger app with simple Express routing and templates
-    * Assignment 4 added CRUD operations to add film data to a MongoDB
-    * Assignment 5 added a REST API to access the film data
-    * Assignment 6 converted most of the front-end from Express templates to Angular
-    * Assignment 7 combined the Express back-end with Angular front-end into a single
-    application
+There were seven assignments in this course that mostly built off of each other. One of
+the first assignments was to create a simple file-server using Node.js. Then, assignments
+3-7 all focused on a film logging application that used the OMDB API. Some key milestones
+in the development process were:
+* Started with simple Express routing and templates
+* Added CRUD operations to add and modify film data within a MongoDB
+* Added a REST API to access the film data
+* Used the REST API to migrate the front-end from Express templates to Angular
 
 ### [Web Programming with Python and JavaScript](https://github.com/reelmatt/csci33a)
 *Languages used: HTML, CSS, Python, Javascript*
