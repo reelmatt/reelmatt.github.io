@@ -34,10 +34,10 @@ PyWorkflow was a group capstone project I worked on to finish my Masters degree.
 project's README mentions, the quick summary of the project is:
 > PyWorkflow is a visual programming application for building data science pipelines and workflows
 
-My responsibilities included most of the back-end design and implementation. Some
+My responsibilities included most of the backend design and implementation. Some
 highlights include:
 * Workflow model to represent a visual workflow as a computational graph.
-* REST API to map front-end actions to the back-end computational graph, including
+* REST API to map frontend actions to the backend computational graph, including
 execution of workflows.
 * Designed an extensible Node class to support new user-created workflow operations.
 PyWorkflow included a handful of Nodes for users to start with, but the main draw to the
@@ -138,7 +138,7 @@ headers, HEAD support, configuration files, directory listing, zombie processes,
 
 This course expanded upon my web application skills from Dynamic Web Applications. Instead
 of PHP/Laravel, this course focused on Node.js/Express and also added Angular to create a
-more dynamic front-end experience.
+more dynamic frontend experience.
 
 There were seven assignments in this course that mostly built off of each other. One of
 the first assignments was to create a simple file-server using Node.js. Then, assignments
@@ -147,7 +147,7 @@ in the development process were:
 * Started with simple Express routing and templates
 * Added CRUD operations to add and modify film data within a MongoDB
 * Added a REST API to access the film data
-* Used the REST API to migrate the front-end from Express templates to Angular
+* Used the REST API to migrate the frontend from Express templates to Angular
 
 ### [Web Programming with Python and JavaScript](https://github.com/reelmatt/csci33a)
 *Languages used: HTML, CSS, Python, Javascript*
