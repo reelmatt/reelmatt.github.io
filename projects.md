@@ -66,10 +66,10 @@ Heroku.
 
 As my main job is to film, edit, and produce our online courses, some of the code and
 documentation has gotten a bit stale and out-of-date. My recent work towards these tools
-has been to shift from a web-app to a REST API to correspond to Airtable's new Scripting
-and Custom Blocks. These blocks would enable myself and others to perform actions from
-within Airtable itself and through a few button clicks, rather than visiting a web-page
-and manually entering information.
+has been to shift from a performing actions through a web-app to serving a REST API that
+can be used with Airtable's new Scripting and Custom Blocks. These blocks would enable
+myself and others to perform actions from within Airtable itself and through a few button
+clicks.
 
 ## Class assignments
 
@@ -101,7 +101,7 @@ single-page application.
 *Languages used: C*
 
 Perhaps the greatest skill I learned in this course was the benefit for writing small,
-modular code that adheres to the UNIX ethos of "do one thing, and do it well." The
+modular code that adheres to the UNIX ethos of "do one thing well." The
 assignments for this course covered a lot of ground and are not as easily grouped into
 bullets as other classes. A few highlights are:
 * `tt2ht3.c` &mdash; program to convert plain-text tables into an HTML-formatted table
@@ -157,6 +157,7 @@ in the development process were:
 *Database experience: SQL, SQLite*
 
 * About me page, uses Sass for advanced styling.
+
 * "Book Review Central"
     * Flask app with a SQL database.
     * Python importer script to load CSV book data into SQL database.
